@@ -1,0 +1,1629 @@
+id,img,us,us-def,gb,gb-def,de,de-def,fr,fr-def,es,es-def,pt,pt-def,il,il-def,it,it-def
+ab,,Accrual Basis,"Event-based accounting which recognizes events when they appear in the system, not at the time they are paid. 
+
+See also [cb].",Accrual Basis,"Event-based accounting which recognizes events when they appear in the system, not at the time they are paid. 
+
+See also [cb].
+",Accrual Basis,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Event-based accounting which recognizes events when they appear in the system, not at the time they are paid. 
+
+See also [cb].
+",,,Base de Valores Devengados,"Contabilidad basada en enventos que reconoce los eventos cuando aparecen en el sistema, no en el momento en el que se pagan.
+
+Ver también [cb].",,,ניהול חשבונות על בסיס מצטבר: Accrual basis,חשבונאות מבוססת אירוע המזהה אירועים כאשר הם מופיעים במערכת ולא בזמן שהם משולמים. בסימולציות העסקים IO מודגם ניהול חשבונות על בסיס מצטבר. ,,
+acp,13-Days-Sale-Outstanding-RATIO.jpg,Average Collection Period,See [dso].,Average Collection Period,See [dso].,,,,,Periodo Promedio de Pagos,Ver [dso],,,,,,
+acp,13-Days-Sale-Outstanding-RATIO.jpg,Average Collection Period,See [dso],Average Collection Period,See [dso],,,,,Average Collection Period,Ver [dso],,,,See [dso],,
+am,,Amortization,"Decreasing an amount gradually or in installments, to:
+1. Write down an expenditure.
+2. Pay off a loan.
+3. Reduce the value of an intangible asset in a manner analogous to [dep].",Amortization,"Decreasing an amount gradually or in installments, to:
+1. Write down an expenditure
+2. Pay off a loan
+3. Reduce the value of an [ia] in a manner analogous to [dep].
+",Amortization,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Decreasing an amount gradually or in installments, to:
+1. Write down an expenditure
+2. Pay off a loan
+3. Reduce the value of an [ia] in a manner analogous to [dep].
+",Amortissement,Opération consistant à répartir le coût d'un bien immobilisé sur sa durée de vie estimée. Il ne s'agit pas d'une sortie d'argent. La sortie d'argent a eu lieu au moment de l'achat du bien.,Amortización,"Reducir una cantidad gradualmente o en cuotas para:  
+1. Descontar un gasto.
+2. Pagar un préstamo.
+3. Reducir el valor de un [ia] en una manera análoga a la [dep].",AMORTIZAÇÃO,[dep],בלאי Amortization:,"הפחתת סכום באופן הדרגתי או בתשלומים (המשכים) על מנת: לרשום הוצאה. לשלם הלוואה, להפחית מערכו של נכס לא מוחשי באופן דומה לפחת. ",,
+ap,1-Payables.jpg,Accounts Payable (A/P)  ,Money you owe to your suppliers and vendors.  Part of [cl].,Creditors,Money you owe to your suppliers and vendors.  Part of [cl].,Creditors,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Money you owe to your suppliers and vendors.  Part of [cl].",,,Deudas (A/P)  ,Dineros que se deben a los proveedores y contratistas.  Parte de las [cl].,,,התחייבויות לספקים Account payable:,כסף שהחברה חבה לספקים ונותני האשראי. ,Attività,Qualsiasi diritto posseduto dall'azienda avente un valore commerciale o di scambio. Le Attività possono consistere di proprietà specifiche o di crediti verso terzi.
+ar,2-Receivables.jpg,Accounts Receivable (A/R),Money your customers owe to you. Part of [ca]. ,Debtors,Money your customers owe to you. Part of [ca]. ,Debtors,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Money your customers owe to you. Part of [ca]. ",,,Cuentas por Cobrar (A/R),Dinero que sus clientes le deben. Parte de los [ca],,,התחייבויות לקוח Account receivable:,כסף שלקוחות חבים לחברה. ,,
+as,4-Assets.jpg,Assets,"Anything owned by the business.  
+
+On the [bs], the sum of the Assets equals the sum of [lia] and [eq].",Assets,"Anything owned by the business.  
+
+On the [bs], the sum of the Assets equals the sum of [lia] and [eq].  
+",Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Anything owned by the business.  
+
+On the [bs], the sum of the Assets equals the sum of [lia] and [eq].  
+",Actif,Tout ce que possède l'entreprise et qui a une valeur commerciale ou une valeur d'échange. Les actifs peuvent être un bien particulier ou des créances sur des tiers.,Activos,"Cualquier cosa que le pertenezca a la empresa.  
+
+En el [bs], la suma de los [as] es igual a la suma de los [lia] y el [eq].",ATIVOS,É tudo o que possui a empresa que tenha um valor comercial ou um valor de troca. Os ativos podem ser um bem particular ou créditos de terceiros.,נכס Asset:,"כל דבר הנמצא בבעלות החברה. 
+במאזן- סכום הנכסים שווה לסכום ההתחייבויות וההון העצמי. 
+",,
+astr,,Asset Stripping,"1. (Owner’s view) Buying a company when its market value is below book value, then selling off its component assets to make a profit.
+
+2. (Manager’s view) Selling off non-essential or under-utilized [as] of a business in order to improve short-term metrics such as [roa].",Asset Stripping,"1. (Owner’s view) Buying a company when its market value is below [bvc], then selling off its component assets to make a profit.
+
+2. (Manager’s view) Selling off non-essential or under-utilized assets of a business in order to improve short-term metrics such as [roa].
+",Asset Stripping,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+1. (Owner’s view) Buying a company when its market value is below [bvc], then selling off its component assets to make a profit.
+
+2. (Manager’s view) Selling off non-essential or under-utilized assets of a business in order to improve short-term metrics such as [roa].
+",,,Liquidación de Activos,"1. (Punto de vista del dueño) Comprar una compañía cuando su valor comercial está por debajo del valor contable, después vender los activos que la componen para generar utilidades.
+
+2. (Punto de vista del Gerente) Vender los [as] no-esenciales o sub-utilizados de una empresa para mejorar las medidas a corto plazo como el [roa].",,,התפרקות מנכסים Asset stripping:,"היחס: מכירות חלקי נכסים.
+יחס זה מודד כמה מניבים נכסי החברה. הוא מורה על המהירות בה מזומן השווה לכסף הנמצא בחברה, חוזר כמכירות. היחס אינו קשור לרווחיות אלא רק לתזרים המזומנים. אם המכירות מהירות- מעט מזומן ""עסוק"" בתפעול החברה ואז החברה יכולה להתרחב ביתר קלות. 
+",,
+ato,T1-Asset-Turnover.jpg,Asset Turnover (ATO),"Ratio: [sa] divided by [as]
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money tied up in the business, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+Also called Asset Turns.
+
+See also [iot], [roa], [nato].",Asset Turnover (ATO),"Ratio: [sa] divided by [as].  
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money tied up in the business, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+Also called Asset Turns.
+
+See also [iot], [nato]; [rona].
+",Asset Turnover (ATO),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [sa] divided by [as].  
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money tied up in the business, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+Also called Asset Turns.
+
+See also [iot], [nato]; [rona].
+",,,Rotación de Activos (RDA),"Cociente: [sa] dividido entre los [as] +
+
+Este cociente mide qué tan intensa en [as] es la empresa y qué tan eficientemente están siendo empleados estos [as].
+
+La Rotación de Activos muestra la velocidad en la que una cantidad de efectivo equivalente a los recursos amarrados en la empresa vuelve a la empresa en la forma de ventas frescas.  No se ocupa de las utilidades, solo con el flujo de efectivo.  Si las ventas son rápidas, habrá poco efectivo amarrado para mantener el negocio:  lo que puede hacer más fácil crecer.  
+
+Ver también [iot], [roa], [nato].
+
+",GIRO DOS ATIVO,Quociente do Faturamento pelo [as] Total. Este indicador mede a geração de faturamento pelos capitais empregados na empresa. É também um indicador da boa utilização destes capitais.,מחזור נכסים Asset turnover:,".היחס: מכירות חלקי נכסים.
+יחס זה מודד כמה מניבים נכסי החברה. הוא מורה על המהירות בה מזומן השווה לכסף הנמצא בחברה, חוזר כמכירות. היחס אינו קשור לרווחיות אלא רק לתזרים המזומנים. אם המכירות מהירות- מעט מזומן ""עסוק"" בתפעול החברה ואז החברה יכולה להתרחב ביתר קלות. 
+",Rotazione dei beni,Vendite divise per le Attività. E' un rapporto che quantifica l'intensità delle attività in un'azienda e l'efficienza di tutte le attività utilizzate.
+atr,3-Acid-Test-Ratio.jpg,Acid-Test Ratio ,"Ratio: ([ca] less [inv]) divided by [cl]
+
+This is a variant of the [crat]; it only includes items which are quickly converted into current assets. It is called ‘Acid-Test’ because it measures the ability to meet unexpected demands without depending on the sale of inventory.  
+
+Also called Quick Ratio.  A Quick Ratio of 1 is a good benchmark. Higher ratios indicate a satisfactory condition. Decreasing ratios indicate either a deteriorating cash position or a deteriorating demand for products. Ratios below ½ indicate a potentially severe situation like slow moving inventory and a higher chance of bankruptcy.",Acid-Test Ratio ,"Ratio: ([ca] less [inv]) divided by [cl]
+
+This is a variant of the [cr]; it only includes items which are quickly converted into current assets. It is called ‘Acid-Test’ because it measures the ability to meet unexpected demands without depending on the sale of inventory.  
+
+Also called Quick Ratio.
+",Acid-Test Ratio ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: ([ca] less [inv]) divided by [cl]
+
+This is a variant of the [cr]; it only includes items which are quickly converted into current assets. It is called ‘Acid-Test’ because it measures the ability to meet unexpected demands without depending on the sale of inventory.  
+
+Also called Quick Ratio.
+",,,Prueba Ácida,"Cociente: ([ca] menos [inv]) divido por [cl]
+
+Esto es una variante del [crat]: solo incluye aquelllas cosas que se convierten en activos corrientes.  Se llama 'Prueba-Ácida' porque mide la capacidad de cubrir demandas inesperadas sin depender de la venta de inventario. 
+
+También se llama Cociente Rápido.  Un Cociente Rápido de 1 es una buena medida.  Cocientes más altos indican una condición satisfactoria.  Cocientes bajos indican ya sea una posición de liquidez deteriorada o una baja demanda de productos.  Los cocientes por debajo de 1/2 indican una situación potencialmente severa como inventario de movimiento lento y una posibilidad alta de bancarrota.",,,יחס מהיר: Acid-test ratio,"היחס: נכסים שוטפים פחות מלאי, לחלק להתחייבויות שוטפות. 
+זהו וריאנט של יחס שוטף הכולל רק נכסים שעתידים להפוך במהירות למזומן. יחס זה מעריך את יכולת החברה להתמודד עם דרישות לא צפויות, ללא תלות במכירת המלאי. 
+",,
+ats,T1-Asset-Turnover.jpg,Asset Turns,See [ato],,,,,,,Rotación de Activos,,,,,,,
+bea,,Break-Even Analysis,Analysis of the interrelationship of [sa] (price and volume) and [fc] and [vc]. Typically done as a graphical representation.,Break-Even Analysis,Analysis of the interrelationship of [sa] (price and volume) and [fc] and [vc]. Typically done as a graphical representation.,Break-Even Analysis,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Analysis of the interrelationship of [sa] (price and volume) and [fc] and [vc]. Typically done as a graphical representation.",Analyse du Seuil de Rentabilité,"Etude établissant sous forme graphique les relations existant entre le prix de vente, le volume des ventes, les charges fixes, les charges variables et les charges totales.",Análisis del Punto de Equilibrio,"Relación visual entre el precio de las Ventas, el volúmen de Ventas volume, costos fijos, variables y costos totales.",ANÁLISE DO PONTO DE EQUILÍBRIO,"Estudo que estabelece, sob forma gráfica, as relações existentes entre o Preço de venda, o Volume das vendas, os Custos fixos, os Custos variáveis e os Custos totais.",ניתוח נקודת איזון Break even analysis:,ניתוח הקשר בין מכירות (מחיר ונפח) והוצאות (קבועות ומשתנות). ,Analisi del Punto di Pareggio,"Interrelazione visiva di prezzo di vendita, volume delle vendite, costi fissi, costi variabili e costi totali."
+bep,,Break-Even Point,"The point at which Sales are equal to total costs.  It is the combination of Sales and Costs that will yield a no-profit, no-loss situation.  
+
+Also known as Break-Even Sales.",Break-Even Point,"The point at which Sales are equal to total costs.  It is the combination of Sales and Costs that will yield a no-profit, no-loss situation.  
+
+Also known as Break-Even Sales.
+",Break-Even Point,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The point at which Sales are equal to total costs.  It is the combination of Sales and Costs that will yield a no-profit, no-loss situation.  
+
+Also known as Break-Even Sales.
+",Seuil de Rentabilité,"Niveau d'activité de l'entreprise pour lequel les produits sont égaux aux charges. Dans cette situation, le bénéfice et les pertes sont nuls.",Punto de Equilibrio,"El punto en el cual los ingresos y el total de los costos son iguales.  Una combinación de Ventas y Costos que no resultará en pérdidas ó ganancias, también conocido como Ventas en Equilibrio (Break Even Sales).",PONTO DE EQUILÍBRIO,Nível de atividade da empresa para o qual o Volume de Vendas se iguala aos Custos Totais.,נקודת איזון Break even point:,הנקודה בה המכירות שוות לסך ההוצאות הכולל. זהו צירוף המכירות וההוצאות שייצר מצב בו אין רווח ואין הפסד. ,Punto di Pareggio,Il punto al quale le entrate pareggiano i costi totali. Una combinazione di vendite e costi che non porti a profitto o perdita è anche conosciuta come Break-Even Sales (Vendite in pareggio)
+bs,5-Balance-Sheet.jpg,Balance Sheet,"A summary of the [as], [lia], and [eq] for the business at a certain point in time - it gives a financial snapshot for the given moment.  
+
+The right side of [tcb] (and of the Income/Outcome business simulation game board) is a Balance Sheet.  
+
+When using a numeric format, North America uses a [tabs] which shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing ([cs]), making money ([re]), or borrowing from sources such as banks (Loans) and suppliers ([ap]).  Elsewhere in the world, a [tabs] may be used.
+
+See also [is].",Balance Sheet,"A summary of the [as], [lia], and [eq] for the business at a certain point in time - it gives a financial snapshot for the given moment.  
+
+The left side of the Company Board (and of the Income/Outcome business simulation game board) is a Balance Sheet.  See also [is].
+
+The [tabs] used in North America shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing ([cs]), making money ([re]), or borrowing from sources such as banks (Loans) and suppliers ([ap]). 
+
+See also [nabs].
+",Balance Sheet,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A summary of the [as], [lia], and [eq] for the business at a certain point in time - it gives a financial snapshot for the given moment.  
+
+The left side of the Company Board (and of the Income/Outcome business simulation game board) is a Balance Sheet.  See also [is].
+
+The [tabs] used in North America shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing ([cs]), making money ([re]), or borrowing from sources such as banks (Loans) and suppliers ([ap]). 
+
+See also [nabs].
+",Bilan,"L'instantané financier de l'entreprise figé à un moment donné du temps. Y figurent l'Actif, les Dettes et les Capitaux Propres",,"La fotografía instantánea del negocio – tomada en un momento particular del tiempo – resume los Activos, Pasivos, y Capital Contable del negocio..",BALANÇO,"É um instantâneo do valor contábil da empresa, numa certa data, como se ela tivesse ficado momentaneamente imóvel.
+
+O balanço possui dois lados: no lado esquerdo estão os [as] e no lado direito os Passivos (Liabilities) e o Patrimônio Líquido ou dos acionistas (Shareholders’ Equity). Representa a equação: Ativos = Passivos + Patrimônio Líquido",מאזן  (Balance sheet): ,"סיכום הנכסים, ההתחייבויות וההון העצמי של חברה בנקודת זמן. המאזן מספק תמונה פיננסית של העסק, הנכונה עבור נקודת הזמן המסוימת. 
+המאזן מפרט את הנכסים (מה שיש לחברה) ומנגד את התחייבויותיה והונה העצמי (מאין באו הנכסים). במילים אחרות- כל מה שיש בחברה מגיע מהשקעות (הון הבעלים), מעשיית רווח  או מהלוואות מגופים כמו בנקים או ספקים.
+ חלקו השמאלי של לוח המשחק מבטא את המאזן
+",Stato Patrimoniale,"La cosiddetta istantanea dell'azienda – scattata in un particolare momento nel tempo – che riassume le Attività, Passività e Capitale Netto dell'azienda."
+bud,8-Income-Statement.jpg,Budget,"Expectations of Sales, Costs (or Expenses) and [prof] for a future fiscal period (month, quarter, year).
+
+This is definitely a [wdym] term.  Many people use it to mean ‘the amount of money they are allowed to spend’, meaning only ‘their’ costs/expenses portion of the actual budget. ",Budget,"Expectations of Sales, Costs (or Expenses) and [Prof] for a future fiscal period (month, quarter, year).
+
+This is definitely a [wdym] term.  Many people use it to mean ‘the amount of money they are allowed to spend’, meaning only ‘their’ costs/expenses portion of the actual budget. 
+",Budget,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Expectations of Sales, Costs (or Expenses) and [Prof] for a future fiscal period (month, quarter, year).
+
+This is definitely a [wdym] term.  Many people use it to mean ‘the amount of money they are allowed to spend’, meaning only ‘their’ costs/expenses portion of the actual budget. 
+",Budget,"Données prévisionnelles concernant le chiffre d'affaires, les charges et les dépenses pour une période fiscale à venir (mois, trimestre ou année).",Presupuesto,"Expectativa de Ventas, costos y gastos para el próximo período fiscal (mes, trimestre, ó año).",ORÇAMENTO,"Projeção e plano que definem o custo para se atingir um determinado objetivo. Geralmente é feito em termos monetários. É uma ferramenta de planejamento financeiro de curto prazo (até 1 ano), podendo ser usado como dispositivo de controle.",תקציב Budget:,"תחזית המכירות, ההוצאות והרווח בעבור תקופה עתידית (חודש, רבעון, שנה).
+זוהי הגדרה שבהחלט דורשת הבהרה: עבור אנשים רבים המושג ""תקציב"" משמש להגדרת סכום הכסף אותו הם רשאים להוציא. 
+",Bilancio preventivo,"Previsione delle vendite, costi e spese per il periodo fiscale a venire (mese, trimestre, anno)."
+bva,23-Fixed-Assets.jpg,Book Value of Assets,"Calculation: Purchase value of [fa] less accumulated [dep].
+
+This is the value of fixed assets as they are listed on the [bs].",Book Value of Assets,"Calculation: Purchase value of [fa] less accumulated [dep].
+
+This is the value of fixed assets as they are listed on the [bs]. 
+",Book Value of Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: Purchase value of [fa] less accumulated [dep].
+
+This is the value of fixed assets as they are listed on the [bs]. 
+",,,Valor Contable de los Activos,,,,ערך מאזני של נכסים ( Book value of assets):,"החישוב: ערך הקנייה של הנכסים פחות הפחת המצטבר. 
+זהו ערכם של נכסים קבועים כפי שהם רשומים במאזן. 
+",,Vendite divise per le Attività. E' un rapporto che quantifica l'intensità delle attività in un'azienda e l'efficienza di tutte le attività utilizzate.
+bvb,,Book Value of Business,"Calculation: Total [as] less [ia] less [lia]. 
+
+The [nav] of a company. ",Book Value of Business,"Calculation: Total [as] less [ia] less [lia]. 
+
+The [nav] of a company. 
+",Book Value of Business,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: Total [as] less [ia] less [lia]. 
+
+The [nav] of a company. 
+",,,Valor Contable de la Empresa,,,,ערך מאזני של חברה  value of business:,"כלל הנכסים פחות נכסים לא מוחשיים והתחייבויות. 
+ערך הנכסים הנקי של חברה- כמות המזומן שתוותר אם תמכור את כל נכסי החברה ותשלם את כל התחייבויותיה. זוהי הערכה שמרנית של ערך החברה אם תאלץ להסגר. 
+",,
+bvs,,Book Value per Share,Calculation:  [bvb] divided by Number of Shares,Book Value per Share,Calculation:  [bvb] divided by Number of Shares,Book Value per Share,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation:  [bvb] divided by Number of Shares",,,Valor Contable por Acción,,,,ערך מאזני למניה   value for share:,חישוב: ערך המניות חלקי מספר הבעלים. ,,
+ca,4b-Current-Assets.jpg,Current Assets ,"The [as] of a company that are reasonably expected to be converted to cash or consumed within 12 months from the date of the [bs].  Current Assets include [cash], [rec], [inv] and Prepaid Expenses.",Current Assets ,"If half the company’s capital comes from borrowing at 8%, and half from investors who are expecting a 16% return on their investment, the Cost of Capital is deemed to be 12%.The [as] of a company that are reasonably expected to be converted to cash or consumed within 12 months from the date of the [bs].  Current Assets include [cash], [rec], [inv] and Prepaid Expenses.",Current Assets ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The [as] of a company that are reasonably expected to be converted to cash or consumed within 12 months from the date of the [bs].  Current Assets include [cash], [rec], [inv] and Prepaid Expenses.",Actif Circulant,"Les actifs d'une société dont on peut raisonnablement penser qu'ils seront convertis en liquidités ou consommés dans les 12 mois qui suivent la date du bilan. Ces actifs comprennent la Trésorerie, les Créances clients, les Stocks et les dépenses payées d'avance.",Activos Corrientes,"Aquellos activos de la compañía que tienen una expectativa razonable de convertirse en efectivo o consumirse durante los próximos 12 meses de acuerdo a la fecha de la Hoja de Balance.  Los Activos Corrientes incluyen Efectivo, Cuentas por Cobrar, Inventarios, y Gastos Prepagados.",ATIVO CIRCULANTE,"São os [as] de uma empresa, que podem ser tornados líquidos ou consumidos nos 12 meses seguintes à data de publicação do [bs]. Inclui: estoque de matérias-primas e produtos acabados (Inventories), [cash] , [ar] e as despesas pagas antecipadamente  (Prepaid Expenses).",נכסים שוטפים Current assets: ,"נכסי החברה שסביר שיהפכו למזומן בתוך 12 חודשים מיום המאזן. נכסים שוטפים כוללים מזומן, חובות לקוחות, מלאי והוצאות ששולמו מראש. ",Attività Correnti,"Sono quelle Attività che si prevede verranno convertite in cassa entro 12 mesi dalla data della compilazione dello Stato Patrimoniale. Le Attività Correnti includono la Cassa, il Conto Creditore, le Scorte e le spese prepagate."
+cap,9-Shareholders-Equity.jpg,Capital,"The amount of money invested in the business by shareholders, plus the amount accumulated in profits.  
+Also referred to as Share Capital, [sheq], or [nw].
+",Capital,"The amount of money invested in the business by shareholders, plus the amount accumulated in profits.  
+Also referred to as Share Capital, [sheq], or [nw].
+",,,,,Capital de Inversión,,,,,,,
+cash,cash-is-king.jpg,Cash,"Cash is King!
+
+Cash on hand, in the bank, or otherwise very readily accessible.  
+
+See also [pandc].",Cash,"Cash is King!
+
+Cash on hand, in the bank, or otherwise very readily accessible.  
+
+See also [pandc].
+",Cash,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Cash is King!
+
+Cash on hand, in the bank, or otherwise very readily accessible.  
+
+See also [pandc].
+",,,Efectivo,,,,מזומן Cash:,"מזומן ב""יד"", בבנק או בכל מקום נגיש אחר. 
+רווח הוא כמו אוכל- אתה זקוק לו על מנת שהחברה תצמח, אך אינך צריך לאכול כל הזמן. מזומן הוא כמו אוויר- אתה צריך אותו כל הזמן. אם נגמר לך האוויר או המזומן, ואינך יכול להשיג עוד- תמצא את"" מותך"". 
+רווח בא לידי ביטוי בדו""ח רווח והפסד
+מזומן בא לידי ביטוי בדו""ח המאזן. 
+",,
+cb,,Cash Basis,"An accounting method which tracks incomes and outlays by when the cash comes in or goes out, not when events first appear in the system.  
+
+See also [ab].",Cash Basis,"An accounting method which tracks incomes and outlays by when the cash comes in or goes out, not when events first appear in the system.  
+
+See also [ab].
+",Cash Basis,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+An accounting method which tracks incomes and outlays by when the cash comes in or goes out, not when events first appear in the system.  
+
+See also [ab].
+",,,Contabilidad de Caja,"Método de contabilidad que hace seguimiento a los ingresos y egresos cuando entra o sale el efectivo, no cuando los eventos aparecen inicialmente en el sistema.
+
+Ver también [ab].",,,Cash basis  בסיס מזומן:,שיטת חשבונאות המזהה הכנסות והוצאות רק כאשר הכסף נכנס או יוצא ולא כאשר האירועים מופיעים לראשונה במערכת. ,,
+ccc,cash_conversion_cycle.gif,Cash Conversion Cycle,"Calculation:  CCC = DIO + DSO -  DPO
+DIO = [dio]
+DSO = [dso]
+DPO = [dpo]
+
+The ratio shows how quickly inventories and receipts are converted into Cash. 
+
+ The number indicates how long your cash is tied up in inventories and receivables (before you get it back from your customer); therefore a lower number is preferred.       
+",Cash Conversion Cycle,"Calculation:  CCC = DIO + DSO -  DPO
+DIO = [dio]
+DSO = [dso]
+DPO = [dpo]
+
+The ratio shows how quickly inventories and receipts are converted into Cash. 
+
+ The number indicates how long your cash is tied up in inventories and receivables (before you get it back from your customer); therefore a lower number is preferred.       ",,,,,Ciclo de Conversión del Efectivo,,,,,,,
+cd,12-Current-Liabilities-or-Current-Debt.jpg,Current Debt ,"[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called Current Liabilities.",Current Debt ,"[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called [cl].",Current Debt ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called [cl].",,,Deuda Corriente,,,,חוב שוטף Current debt: ,"התחייבויות שמועד הפירעון שלהן הינו בטווח 12 חודשים מיום המאזן. חוב שוטף כולל התחייבויות לספקים, תשלומי מיסים, הלוואות קצרות טווח והתשלום השוטף של חובות ארוכי טווח. 
+נקרא גם ""התחייבויות שוטפות"". 
+",,
+cf,Cash-Flow-and-Profit.jpg,Cash Flow,"The flow of money into and out of the business. Understanding the cash flow of a business is as essential as understanding [prof].  The two have to be managed separately. 
+
+See also [pandc]; [cff]; [cfs].",Cash Flow,"The flow of money into and out of the business. Understanding the cash flow of a business is as essential as understanding [prof].  The two have to be managed separately. 
+
+See also [pandc]; [cff]; [cfs].
+",Cash Flow,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The flow of money into and out of the business. Understanding the cash flow of a business is as essential as understanding [prof].  The two have to be managed separately. 
+
+See also [pandc]; [cff]; [cfs].
+  ",,,Flujo de Caja,,,,תזרים מזומנים Cash flow:,"זרימת הכסף אל ומהחברה. הבנת תזרים המזומנים של חברה הוא חיוני כמו הבנת הרווח, אך שני הדברים צריכים להיות מנוהלים בנפרד. ",,
+cff,,Cash Flow Forecast (CFF),"A projection of the cash flows, in and out, over a fiscal period of projection, to determine net cash balances at particular points in time. This identifies either the need for additional cash infusions or the opportunity to use excess cash elsewhere.",Cash Flow Forecast (CFF),"A projection of the cash flows, in and out, over a fiscal period of projection, to determine net cash balances at particular points in time. This identifies either the need for additional cash infusions or the opportunity to use excess cash elsewhere.",Cash Flow Forecast (CFF),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A projection of the cash flows, in and out, over a fiscal period of projection, to determine net cash balances at particular points in time. This identifies either the need for additional cash infusions or the opportunity to use excess cash elsewhere.",,,Pronóstico del Flujo de Caja,"Una proyección del flujo de efectivo durante un período fiscal para medir los balances netos de efectivo durante un momento específico,  ya sea para determinar la necesidad de fectivo ó las oportunidades para utilizarlo en inversiones adicionales.",PREVISÕES DE CAIXA,"Projeção das entradas e saídas de Caixa, num dado período fiscal, para determinar a capacidade de autofinanciamento ou a necessidade de injetar novos recursos para viabilizar a empresa.",תחזית תזרים מזומנים Cash flow forecast:,תכנון תזרים המזומנים עבור תקופה מסוימת על מנת לקבוע יתרות מזומן. תחזית זו עשויה לעזור בזיהוי צורך במזומנים או בהזדמנויות לשימוש בעודפי מזומן. ,Previsione di Cash Flow (PCF)," Proiezione del Cash Flow, in entrata e in uscita, per un dato periodo fiscale, utilizzato per determinare le Disponibilità liquide nette in un dato momento e la necessità di ulteriori infusioni di cassa o di investimenti di cassa."
+cfs,,Cash Flow Statement,"Analysis of sources of cash that flowed into the business together with how the cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as [dep].",Cash Flow Statement,"Analysis of sources of cash that flowed into the business together with how the cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as depreciation.
+",Cash Flow Statement,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Analysis of sources of cash that flowed into the business together with how the cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as depreciation.
+",,,Estado de Flujo de Efectivo,,,,"דו""ח תזרים מזומנים Cash flow statement:","ניתוח מקורות המזומן שנכנס לעסק בצד האופן בו הוקצה המזומן בעבור תקופת זמן מסוימת. 
+יש לשים לב שדו""ח תזרים המזומנים אינו כולל פריטים שאינם מזומנים כמו פחת. 
+",,
+cl,12-Current-Liabilities-or-Current-Debt.jpg,Current Liabilities ,"[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called Current Debt.",Current Liabilities ,"[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called Current Debt.",Current Liabilities ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[lia] that are due within 12 months of the date of the [bs].  Current Liabilities include [ap], Taxes Payable, short-term loans, and the current portion of long-term debt.  
+
+Also called Current Debt.",,,Pasivos Corrientes,"Aquellos [lia] que se vencen durante los proximos 12 meses de acuerdo a la fecha de la Hoja de Balance.  Incluídas en esta clasificación están las Cuentas por Pagar, los Impuestos a Pagar, los Préstamos a Corto Plazo, y la porción corriente de que se debe de los Préstamos a Largo Plazo.",PASSIVO CIRCULANTE OU DÍVIDAS (EXIGÍVEL) À CURTO PRAZO,"Obrigações, que devem ser liquidadas pela empresa, em um período máximo de um ano, tais como: Contas à Pagar (Accounts Payable), Dívidas Fornecedores, Impostos exigíveis (Taxes Payable), Empréstimos à curto prazo e a parcela, devida no ano, das dívidas a longo prazo.",התחייבויות שוטפות Current liabilities:  ,"התחייבויות שמועד הפירעון שלהן הינו בטווח 12 חודשים מיום המאזן. התחייבויות שוטפות כוללות התחייבויות לספקים, תשלומי מיסים, הלוואות קצרות טווח והתשלום השוטף של חובות ארוכי טווח. 
+נקרא גם ""חוב שוטף"".
+",Passività Correnti,"Sono le passività che scadono entro 12 mesi dalla compilazione dello Stato Patrimoniale. In questa classificazione sono inclusi il Conto Debitore, Imposte esigibili, mutui a breve scadenza e la porzione corrente dei debiti a lungo termine."
+cm,50a-Gross-Margin.jpg,Contribution Margin,"CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: [cont] as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.
+",Contribution Margin,"CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: [cont] as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.
+",Contribution Margin,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: [cont] as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.
+",Marge Contributive,"Le Chiffre d'Affaires moins les coûts variables des produits vendus. C'est ce qui reste pour payer tous les frais généraux de l'entreprise (Frais Directs, Indirects, Financiers).",Margen de Contribución,,,,תרומה שולית (Contribution margin):,יחס: התרומה כאחוז מסך המכירות. ,,
+coc,,Cost of Capital,"A weighted average of the interest cost of debt and the expectations of the shareholders.  
+
+Example:
+If half the company’s capital comes from borrowing at 8%, and half from investors who are expecting a 16% return on their investment, the Cost of Capital is deemed to be 12%.",Cost of Capital,A weighted average of the interest cost of debt and the expectations of the shareholders.  ,Cost of Capital,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A weighted average of the interest cost of debt and the expectations of the shareholders.  
+
+Example:
+If half the company’s capital comes from borrowing at 8%, and half from investors who are expecting a 16% return on their investment, the Cost of Capital is deemed to be 12%.",,,Costo del Capital,,,,עלות ההון Cost of capital:,"ממוצע משוקלל של עלויות המימון וציפיותיהם של בעלי המניות. לדוגמא: אם מחצית מהון החברה מקורו בהלוואה שהריבית עליה היא 8% ומחצית מבעלי מניות המצפים לתשואה של 16%, עלות ההון תהיה 12%.",,
+cogs,11a-Cost-of-Sales.jpg,Cost of Goods Sold (COGS),"The variable (or direct) costs of products sold and shipped to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  
+
+COGS is a variable cost because the cost reported varies with sales volume. Conceptually, Direct Costs, Cost of Goods Sold and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Sales (COS).",Cost of Goods Sold (COGS),"The variable (or direct) costs of products sold and shipped to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  
+
+COGS is a variable cost because the cost reported varies with sales volume. Conceptually, Direct Costs, Cost of Goods Sold and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Sales (COS).",Cost of Goods Sold (COGS),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The variable (or direct) costs of products sold and shipped to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  
+
+COGS is a variable cost because the cost reported varies with sales volume. Conceptually, Direct Costs, Cost of Goods Sold and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Sales (COS).",,,Costo del Producto Vendido (CDPV),El costo directo (variable) de los productos vendidos y entregados a los clientes.,CUSTO DOS PRODUTOS VENDIDOS,"Os custos diretos, variáveis, associado aos produtos vendidos e entregues aos clientes.",עלות המכר Cost of goods sold:,"העלות המשתנה של מוצרים או שירותים שסופקו ללקוחות. באופן טיפוסי העלות תכלול חומרי גלם ועבודה אך היא עשויה לכלול גם מרכיבים ייחודיים לכל חברה, כמו עמלות מכירה ופחת. נקרא גם ""עלות המכירות"".
+עלות המכר הינה עלות משתנה מכיוון שגודלה משתנה בהתאם לנפח המכירות. עלות ישירה, עלות המכר ועלות משתנה דומות מאוד. עלייך לבדוק כיצד משתמשים בכל מושג בחברה שלך. 
+",Costo dei prodotti venduti (COGS), Il costo diretto (variabile)dei prodotti venduti e spediti al cliente.
+cont,50-Gross-Profit.jpg,Contribution,"CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: Contribution as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Contribution may be the same number as Gross Profit.
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.
+",Contribution,"CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: Contribution as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Contribution may be the same number as Gross Profit.
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.",Contribution,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+CONTRIBUTION
+Calculation: [sa] less the [cos]. 
+
+CONTRIBUTION MARGIN
+Ratio: Contribution as a percentage of [sa]
+
+Contribution is what’s left from the sale to contribute towards paying for the overhead costs and expenses of the business.  
+
+This is a real [wdym] term with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of Sales). 
+
+Contribution may be the same number as Gross Profit.
+
+Example:  
+- Sales of 200 less COS of 80 equals Contribution of 120
+- Contribution of 120 divided by Sales of 200 equals Contribution Margin of 60%.",,,Contribución,Las Ventas menos los costos variables del producto vendido. Esta “Contribución” es lo que queda disponible para pagar por todos los costos y gastos generales del negocio.,CONTRIBUIÇÃO OU MARGEM DE CONTRIBUIÇÃO,Faturamento menos os custos dos produtos vendidos. É o que resta para pagar todas as Despesas Gerais da empresa (Custos Indiretos).,תרומה Contribution,"חישוב- כלל המכירות פחות עלות המכר. 
+תרומה היא מה שנותר מהמכירות בכדי לתרום לתשלום התקורה והוצאות העסק. 
+תרומה עשויה להיות זהה לרווח הגולמי.
+",Valore aggiunto,Vendite meno il costo variabile dei prodotti venduti. «Valore aggiunto» è quanto rimane per pagare tutti costi e le spese generali dell'azienda.
+cos,11a-Cost-of-Sales.jpg,Cost of Sales (COS),"The variable (direct) costs of products and/or services provided to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  Also called [cogs] or COGS.
+
+COS is a variable cost because the cost reported varies with sales volume.  Conceptually, Direct Costs, Cost of Sales and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Goods Sold (COGS).",Cost of Sales (COS),"The variable (direct) costs of products and/or services provided to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  Also called [cogs] or COGS.
+
+COS is a variable cost because the cost reported varies with sales volume.  Conceptually, Direct Costs, Cost of Sales and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Goods Sold (COGS).",Cost of Sales (COS),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The variable (direct) costs of products and/or services provided to customers.  Typically includes raw materials and labor, and other components on a company-by-company basis.  Individual components might include sales commission and depreciation.  Also called [cogs] or COGS.
+
+COS is a variable cost because the cost reported varies with sales volume.  Conceptually, Direct Costs, Cost of Sales and Variable Cost are very similar. Check how each term is used in your company.  
+
+Also called Cost of Goods Sold (COGS).",,,Costo de las Ventas,El costo directo (variable) de los productos o servicios enviados a los clientes.  En manufactura se conoce como Costo Del Producto Vendido (CDPV).,,,עלות המכירות Cost of sales: ,"העלות המשתנה של מוצרים או שירותים שסופקו ללקוחות. באופן טיפוסי העלות תכלול חומרי גלם ועבודה אך היא עשויה לכלול גם מרכיבים ייחודיים לכל חברה, כמו עמלות מכירה ופחת.
+נקרא גם ""עלות המכר"".
+",Costo delle vendite (COS),Il costo diretto (variabile) dei prodotti venduti e/o servizi forniti al cliente. Nel settore industriale si chiama COGS
+crat,3a-Current-Ratio.jpg,Current Ratio,"Ratio: [ca] divided by [cl]. 
+
+This ratio is a measure of the company’s liquidity. It looks at the ability to pay bills out of the short-term or current assets.",Current Ratio,"Ratio: [ca] divided by [cl]. 
+
+This ratio is a measure of the company’s liquidity. It looks at the ability to pay bills out of the short-term or current assets.",Current Ratio,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ca] divided by [cl]. 
+
+This ratio is a measure of the company’s liquidity. It looks at the ability to pay bills out of the short-term or current assets.",,,Cociente de Liquidez,"Una medida de la liquidez de la compañía, o su capacidad de pagar sus cuentas;  se calcula dividiendo los Activos Corrientes por los Pasivos Corrientes.",ÍNDICE DE LIQÜIDEZ CORRENTE,Indicador da líquidez de uma empresa e de sua capacidade de honrar seus compromissos. É a relação dos [ca] sobre os passivos Circulantes (ou Dívidas à Curto Prazo) (Current Liabilities).,יחס שוטף Current ratio: ,"היחס: נכסים שוטפים חלקי התחייבויות שוטפות.
+יחס זה הינו מדד לנזילות החברה. הוא בוחן את יכולתה לשלם חשבונות מתוך הנכסים קצרי המועד. 
+",Rapporto di liquidità,"Misura delle liquidità dell'azienda o della capacità di pagare le sue spese, ed è calcolata dividendo le Attività Correnti per le Passività Correnti."
+cs,9a-Capital-Stock.jpg,Capital Stock,"The original investment in the company, plus any additional investment from outside the company. ",Capital Stock,"The original investment in the company, plus any additional investment from outside the company. ",Capital Stock,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The original investment in the company, plus any additional investment from outside the company. ",Action à Valeur Initiale,"Valeur faciale des actions de capital, calculée à partir de leur valeur déclarée initiale.",Capital Contable,,,,הון מניות Capital stock:,ההשקעה המקורית בחברה בצירוף כל השקעה נוספת שנעשתה מחוץ לחברה. ,,
+d2e,15-Debt-to-Equity-RATIO.jpg,Debt to Equity Ratio ,"Ratio: Debt divided by [eq]. 
+
+This ratio is a measure of the company’s safety, or ability to withstand adversity.
+
+This is a real [wdym] term. What is meant by ‘debt'?  Total [lia]? Interest-bearing debt? Long-term debt? 
+
+See the discussion at [lev].",Debt to Equity Ratio ,"Ratio: Debt divided by [eq]. 
+
+This ratio is a measure of the company’s safety, or ability to withstand adversity.
+
+This is a real [wdym] term. What is meant by ‘debt'?  Total [lia]? Interest-bearing debt? Long-term debt? 
+
+See the discussion at [lev].",Debt to Equity Ratio ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: Debt divided by [eq]. 
+
+This ratio is a measure of the company’s safety, or ability to withstand adversity.
+
+This is a real [wdym] term. What is meant by ‘debt'?  Total [lia]? Interest-bearing debt? Long-term debt? 
+
+See the discussion at [lev].",Ratio de Dettes,"Indicateur exprimant dans quelle mesure une entreprise est sûre, capable de surmonter l'adversité. Ce ratio est le rapport des dettes totales aux Capitaux Propres.",Cociente de Deuda a Patrimonio,"Una medida de la solidez de la empresa, o su capacidad de sobrevivir la adversidad;  se calcula dividiendo el total de los Pasivos por el Capital Contable.",DÍVIDAS SOBRE CAPITAL PRÓPRIOS,Indicador que expressa em qual medida uma empresa está segura e será capaz de superar adversidades. Este indicador é a razão entre dívidas totais e capitais próprios.,יחס התחייבויות להון עצמי debt to equity ratio:,"היחס: התחייבויות חלקי הון עצמי.
+יחס זה הינו מדד לסיכון או היכולת לשרוד מצוקות. 
+ראה גם את הדיון במושג ""מינוף"".  
+",Rapporto debiti su Capitale Netto," Misura della solidità dell'azienda, o della sua capacità di superare le difficoltà; si calcola dividendo il Totale Passività per il Capitale Netto."
+dc,11a-Cost-of-Sales.jpg,Direct Cost,"The cost of labor, materials and any direct overhead incurred in producing the goods and services.  
+
+Conceptually, Direct Costs, [cos] and [vc] are very similar. Check how each term is used in your company.   
+
+See also [idc].",Direct Cost,"The cost of labor, materials and any direct overhead incurred in producing the goods and services.  
+
+Conceptually, Direct Costs, [cos] and [vc] are very similar. Check how each term is used in your company.   
+
+See also [idc].",Direct Cost,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The cost of labor, materials and any direct overhead incurred in producing the goods and services.  
+
+Conceptually, Direct Costs, [cos] and [vc] are very similar. Check how each term is used in your company.   
+
+See also [idc].",Coût Direct,"Coût lié directement aux produits et services vendus. C'est normalement le Coût des produits vendus. Sont inclus dans ce coût : la main-d'œuvre directe, les matières premières et éventuellement tous les frais généraux directs générés par la fabrication des produits ou la prestation de service.",Costo Directo,"El costo variable de los productos o servicios producidos y vendidos; normalmente el Costo del Producto Vendido (CDPV), incluyendo la mano de obra, materiales y cualquier otro gasto general directo incurrido en la fabricación de los productos y servicios.",CUSTOS DIRETOS,"Custos ligados diretamente aos produtos e serviços vendidos. É normalmente o Custo dos Produtos Vendidos (Cost of Goods Sold). São incluídos neste custo a mão-de-obra direta, as matérias-primas e eventualmente as despesas gerais diretamente ligadas à fabricação dos produtos ou prestação dos serviços.",עלות ישירה Direct cost:,"עלות העבודה, החומרים וכל תקורה ישירה של תהליך ייצור המוצר או השירות. באופן קונצפטואלי, עלויות ישירה, עלות מכר ועלות משתנה דומות מאוד. עלייך ",Costo Diretto,"Costo variabile dei beni o servizi prodotti e venduti. Solitamente è il costo dei prodotti venduti, compresa la manodopera diretta, materiali e qualsiasi altra spesa generale diretta sostenuta per la produzione dei beni o servizi."
+dcf,,Discounted Cash Flow (DCF),"A calculation of the future value of expected inflows and outflows of [cash].   
+
+Future cash flows need to be appropriately discounted to allow for the fact that money that comes back in next year is worth less than money that goes out today.  ",Discounted Cash Flow (DCF),"A calculation of the future value of expected inflows and outflows of [cash].   
+
+Future cash flows need to be appropriately discounted to allow for the fact that money that comes back in next year is worth less than money that goes out today.  ",Discounted Cash Flow (DCF),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A calculation of the future value of expected inflows and outflows of [cash].   
+
+Future cash flows need to be appropriately discounted to allow for the fact that money that comes back in next year is worth less than money that goes out today.  ",,,Flujo de Efectivo Descontado,,,,:Discounted cash flow,"חישוב הערך העתידי של הזרמות והוצאות של מזומן.
+תזרימי מזומן עתידים צריכים להיות מחושבים כך שיבטאו את העובדה שערכו של כסף שיכנס בשנה הבאה נמוך מערכו של כסף שיוצא היום.
+",,
+dcr,17-Discounting-Receivables.jpg,Discounting Receivables,"Selling your [ar] (e.g.  an invoiced sale) at a discount in order to receive immediate [cash].  
+
+Also called Factoring. 
+",Discounting Receivables,"Selling your [ar] (e.g.  an invoiced sale) at a discount in order to receive immediate [cash].  
+
+Also called Factoring. ",Discounting Receivables,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Selling your [ar] (e.g.  an invoiced sale) at a discount in order to receive immediate [cash].  
+
+Also called Factoring. ",,,Descuento Comercial,"Reducción en el precio de venta del producto o servicio para atraer ventas adicionales, generalmente basado en el volumen u otro compromiso de ventas por el cliente. ",DESCONTO,"Redução do preço de venda de um produto ou serviço, com o objetivo de atrair novas vendas. Esta redução é feita, em função do volume ou dos pedidos feitos pelos clientes.",Discounting Receivablesהנחת מזומן ,מכירת חשבונית בהנחה על מנת לקבל מזומן מיידית. נקרא גם ניכיון צ'קים (factoring). ,Sconto,"Riduzione del prezzo di vendita dei beni e servizi per attirare vendite supplementari, in genere basata sul volume o su altri impegni futuri da parte del cliente. Vedere anche la voce «Factoring»."
+debt,14-Liabilities.jpg,Debt,"[wdym] This term can describe wildly different situations; here are some possibilities.
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets).
+2) Total [as] less [cl].
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).
+
+And all of these terms are different from Net Asset Value. Make sure you agree on the meaning!",Debt,"[wdym] This term can describe wildly different situations; here are some possibilities.
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets).
+2) Total [as] less [cl].
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).
+
+And all of these terms are different from Net Asset Value. Make sure you agree on the meaning!",Debt,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[wdym] This term can describe wildly different situations; here are some possibilities.
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets).
+2) Total [as] less [cl].
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).
+
+And all of these terms are different from Net Asset Value. Make sure you agree on the meaning!",Dette,"Ce sont les emprunts bancaires, les salaires et charges, les factures des fournisseurs et les impôts.",Deuda,,,,חוב (Debt):,לחוב עשויות להיות מספר משמעויות שונות. הנה כמה אפשרויות: 1) כלל ההתחייבויות 2) התחייבויות הכרוכות בעלויות מימון כמו הלוואות ואגרות חוב אך לא התחייבויות לספקים 3) התחייבויות ארוכות טווח.,,
+dep,16-Depreciation.jpg,Depreciation,Non-cash expense (reported on the [is]) that expresses the reduction in economic value of [as] over time.   ,Depreciation,Non-cash expense (reported on the [is]) that expresses the reduction in economic value of [as] over time. ,Depreciation,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Non-cash expense (reported on the [is]) that expresses the reduction in economic value of [as] over time. ",,,Depreciación,,"DEPRECIAÇÃO ou 
+AMORTIZAÇÃO","Operação que consiste em repartir o valor de compra de um ativo imobilizado pelo seu tempo de vida estimado, de modo a representar a perda de valor do bem, devido a obsolescência, desgaste, etc. Não se trata de uma saída de dinheiro. A saída de dinheiro aconteceu no momento da compra do bem.",פחת Depreciation:,"הוצאה שאינה מזומנית (מדווחת בדו""ח רווח והפסד) המבטאת את הפחתת ערכו הכלכלי של נכס לאורך זמן.",,
+dio,days_inventory_outstanding.gif,Days Inventory Outstanding,"Ratio: [inv] divided by the Average Daily COS (Annual COS/365).   
+
+The ratio shows how quickly inventories are converted into [cash].
+
+Part of the [ccc].  
+
+",Days Inventory Outstanding,"Ratio: [inv] divided by the Average Daily COS (Annual COS/365).   
+
+The ratio shows how quickly inventories are converted into [cash].
+
+Part of the [ccc].  
+
+",,,,,Días de Inventario,,,,,,,
+div,,Dividend,A distribution to shareholders of a portion of [ea].,Dividend,A distribution to shareholders of a portion of [ea].,Dividend,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Also called Factoring. ",,,Dividendo,,,,,,,
+divc,,Dividend Cover,"Ratio: [ni] divided by [div]
+
+The ratio shows the ratio of Profit to Dividends paid. If this number is greater than 1, it means the business has reinvested some profit back into itself – the higher the number the greater the re-investment.
+
+Some companies occasionally pay Dividends greater than their Earnings; this may happen if they take a temporary loss and want to send a signal that the loss does not matter. Failing to pay an expected dividend signals that the company has run into unexpected difficulty, and this will hurt the price of shares. It shrinks the size of the business to pay a dividend greater than earnings, but a high stock price is important if the company wants to raise more capital by issuing shares. The company wants the most money for the fewest new shares issued.",Dividend Cover,"Ratio: [ni] divided by [div]
+
+The ratio shows the ratio of Profit to Dividends paid. If this number is greater than 1, it means the business has reinvested some profit back into itself – the higher the number the greater the re-investment.
+
+Some companies occasionally pay Dividends greater than their Earnings; this may happen if they take a temporary loss and want to send a signal that the loss does not matter. Failing to pay an expected dividend signals that the company has run into unexpected difficulty, and this will hurt the price of shares. It shrinks the size of the business to pay a dividend greater than earnings, but a high stock price is important if the company want",Dividend Cover,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ni] divided by [div]
+
+The ratio shows the ratio of Profit to Dividends paid. If this number is greater than 1, it means the business has reinvested some profit back into itself – the higher the number the greater the re-investment.
+
+Some companies occasionally pay Dividends greater than their Earnings; this may happen if they take a temporary loss and want to send a signal that the loss does not matter. Failing to pay an expected dividend signals that the company has run into unexpected difficulty, and this will hurt the price of shares. It shrinks the size of the business to pay a dividend greater than earnings, but a high stock price is important if the company want",,,Cubrimiento del Dividendo,,,,Dividend cover:,"היחס: הכנסות חלקי דיבידנד.
+יחס זה מצביע על היחס בין הרווח לדיבידנד המשולם. אם התוצאה גדולה מ-1, המשמעות היא שהעסק השקיע חלק מהרווח חזרה בעצמו. ככל שהמספר גבוה יותר, כך גבוהה ההשקעה מחדש. 
+חברות אחדות משלמות לעיתים דיבידנד הגבוה מהכנסותיה- זה עשוי לקרות אם ישנו הפסד זמני והחברה מעוניינת לשדר שהוא לא משנה. קושי לשלם דיבידנד מצביע על כך שהחברה נתקלה בקשיים לא צפויים וזה עשוי להשפיע על מחיר המניה. אמנם תשלום דיבידנד הגבוה מההכנסות מקטין את גודל החברה, אך ערך מניה גבוה הינו חשוב אם החברה רוצה לגייס עוד הון באמצעות הנפקה. החברה מעוניינת במצב בו הם מקבלים מקסימום כסף על מינימום מניות. 
+",,
+dpo,days_payable_outstanding.gif,Days Payable Outstanding,"Ratio:  [ap] divided by the Average Daily COS (Annual Sales/365).   
+
+The ratio shows the company’s average payable period.  
+Part of the [ccc].
+",Days Payable Outstanding,"Ratio:  [ap] divided by the Average Daily COS (Annual Sales/365).   
+
+The ratio shows the company’s average payable period.  
+Part of the [ccc].
+",,,,,Días por Pagar,,,,,,,
+dsi,days_inventory_outstanding.gif,Days Sales of Inventory,See [dio].,Days Sales of Inventory,See [dio].,,,,,Período de Ventas de Inventario,,,,,,,
+dso,13-Days-Sale-Outstanding-RATIO.jpg,Days Sale Outstanding (DSO),"Ratio: [ar] divided by the Average Daily Sales (Annual Sales/365).   
+
+The ratio shows how quickly the proceeds from sales are converted into [cash].  
+
+DSO is also known as Days Sales in Receivables (DSR) or Average Collection Period. 
+
+Part of the [ccc].  
+",Days Sale Outstanding (DSO),"Ratio: [ar] divided by the Average Daily Sales (Annual Sales/365).   
+
+The ratio shows how quickly the proceeds from sales are converted into [cash].  
+
+DSO is also known as Days Sales in Receivables (DSR) or Average Collection Period. 
+
+Part of the [ccc].  
+",Days Sale Outstanding (DSO),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ar] divided by the Average Daily Sales (Annual Sales/365).   
+
+The ratio shows how quickly the proceeds from sales are converted into [cash].  
+
+DSO is also known as Days Sales in Receivables (DSR) or Average Collection Period.",,,Período de Ventas Pendientes de Cobro (DSO),,,,Days sales outstanding:,"היחס: חובות מלקוחות חלקי ממוצע המכירות היומי (מכירות שנתיות/365).
+יחס זה מורה על המהירות בה המכירות מתורגמות למזומן. 
+",,
+dsr,13-Days-Sale-Outstanding-RATIO.jpg,Days Sales in Receivables,See [dso],Days Sales in Receivables,See [dso],,,,,Período de Ventas en Cuentas por Cobrar,,,,,See [dso],,
+dss,18-Sales.jpg,Discounting Sales,"Reduction in the sales price of goods and services to entice additional sales. Often based on volume, seasonality, obsolescence, a changed competitive environment, or future commitments by the customer.  ",Discounting Sales,"Reduction in the sales price of goods and services to entice additional sales. Often based on volume, seasonality, obsolescence, a changed competitive environment, or future commitments by the customer.  ",Discounting Sales,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Reduction in the sales price of goods and services to entice additional sales. Often based on volume, seasonality, obsolescence, a changed competitive environment, or future commitments by the customer.  ",Remise,"Réduction du prix de vente d'un produit ou service, dans le but d'attirer de nouvelles ventes. Cette réduction se fait en fonction du volume ou de l'engagement pris par le client. ",Descuento de las Ventas,,,,Discounting sales:,"הנחה במחיר מוצרים ושירותים על מנת לאפשר מכירות נוספות. לעיתים קרובות מבוסס על נפח, עונתיות, התיישנות מלאי, שינוי בסביבת התחרות או התחייבויות עתידיות ללקוח ",,
+ea,19-Net-Income.jpg,Earnings ,"Calculation: [sa] less all costs and expenses 
+
+Net Income or Net Profit for the period.",Earnings ,"Calculation: [sa] less all costs and expenses 
+
+Net Income or Net Profit for the period.",Earnings ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: [sa] less all costs and expenses 
+
+Net Income or Net Profit for the period.",,,Ganancias,,,,הכנסות נטו  Earnings:,"חישוב: מכירות פחות כל העלויות וההוצאות.
+הכנסה נטו או רווח נטו בעבור תקופה. 
+",,
+ebit,20-EBIT.jpg,Earnings Before Interest and Taxes (EBIT),Calculation: [sa] less all costs and expenses except [fin] and Income Tax,Earnings Before Interest and Taxes (EBIT),Calculation: [sa] less all costs and expenses except [fin] and Income Tax,Earnings Before Interest and Taxes (EBIT),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: [sa] less all costs and expenses except [fin] and Income Tax",,,Utilidades antes de los Intereses e Impuestos  (EBIT),,,,הכנסות לפני ריבית ומיסוי - Earnings before interest and taxes (EBIT):,חישוב: מכירות פחות על העלויות וההוצאות פרט לעלויות מימון ומס הכנסה. ,,
+ebitda,,"Earnings Before Interest, Tax, Depreciation and Amortization (EBITDA)","Calculation: [sa] less all [cash] expenses except [fin] and Income Tax.
+
+EBITDA does not include the non-cash expenses such as [dep] and [am].","Earnings Before Interest, Tax, Depreciation and Amortization (EBITDA)","Calculation: [sa] less all [cash] expenses except [fin] and Income Tax.
+
+EBITDA does not include the non-cash expenses such as [dep] and [am].","Earnings Before Interest, Tax, Depreciation and Amortization (EBITDA)","Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: [sa] less all [cash] expenses except [fin] and Income Tax.
+
+EBITDA does not include the non-cash expenses such as depreciation and amortization.",,,"Utilidades antes de los Intereses, Impuestos, Depreciación y Amortización (EBITDA)",,,,"הכנסות לפני ריבית, מיסוי, פחת ובלאי – Earnings before interest, taxes, depreciation and amortization (EBITDA):",חישוב: מכירות פחות כל ההוצאות המזומניות פרט להוצאות מימון ומס הכנסה. החישוב אינו כולל הוצאות שאינן מזומניות כמו פחת ובלאי. ,,
+eps,,Earnings Per Share (EPS),"Ratio: [ni] divided by the number of shares issued and outstanding. 
+
+EPS is the net benefit to the shareholder per share; it does not say whether the earnings are paid out as dividends or retained in the company for growth.",Earnings Per Share (EPS),"Ratio: [ni] divided by the number of shares issued and outstanding. 
+
+EPS is the net benefit to the shareholder per share; it does not say whether the earnings are paid out as dividends or retained in the company for growth.",Earnings Per Share (EPS),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ni] divided by the number of shares issued and outstanding. 
+
+EPS is the net benefit to the shareholder per share; it does not say whether the earnings are paid out as dividends or retained in the company for growth.",Résultat par Action,"Rapport du Résultat net au nombre d'actions émises et en circulation, pondéré des options d'achat et des actions convertibles en Capitaux Propres.",Ganancia por Acción,,LUCRO POR AÇÃO,"Razão entre resultado líquido e a à quantidade de ações emitidas e em circulação, ponderada das opções de compra e das ações convertíveis em Capitais próprios (Equity).",הכנסות למניה- Earnings per share:,"היחס: הכנסה נטו מחולקת במספר המניות שהונפקו. 
+זהו הרווח הנקי למניה, היחס אינו אומר אם הרווח שולם כדיבידנד או הושאר בחברה לצרכי השקעה. 
+",Reddito per Azione (EPS),Reddito Netto diviso per il numero di azioni emesse dall'azienda e già in circolazione ponderato per le azioni potenziali convertite in opzioni o convertibili da debiti su capitale netto.
+eq,9-Shareholders-Equity.jpg,Equity ,"The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity or Net Worth. 
+
+On the [bs], the sum of the [as] equals the sum of [lia] plus Equity.",Equity ,"The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity or Net Worth. 
+
+On the [bs], the sum of the [as] equals the sum of [lia] plus Equity.",Equity ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+EBITDA does not include the non-cash expenses such as depreciation and amortization.The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity or Net Worth. 
+
+On the [bs], the sum of the [as] equals the sum of [lia] plus Equity.",,,Patrimonio,"La propiedad de los accionistas tienen en la compañía, representada por Acciones del Capital Social más las Ganancias Retenidas en la Hoja de Balance (tambien es igual a Activos menos Pasivos).",CAPITAL PRÓPRIO,"Recursos à longo prazo fornecidos pelos proprietários da empresa, que não possuem data de vencimento, ou seja, têm uma vida infinita. Suas fontes básicas são: ação preferencial, ação ordinária e lucros retidos.",הון עצמי- Equity,"הבעלות של מחזיקי המניות בחברה, המבוטאת באמצעות הון המניות והרווח הנצבר. נקרא גם הון בעלי המנות או שווי נקי.
+במאזן, סכום הנכסים שווה לסכום ההתחייבויות ועוד ההון העצמי. 
+",Capitale Netto," La porzione di azienda di proprietà degli azionisti, rappresentata dal Capitale Azionario più gli Utili non distribuiti dello Stato Patrimoniale; definibile anche come Attività meno Passività."
+eva,,Economic Value Added (EVA),"A relatively complex method of evaluating profitability that takes into account the Cost of Capital.  It allows shareholder expectations as much weight as the rate of interest on debt; the appropriateness of this is debatable.  The practical impacts are 1) to require very high levels of profit before the company is deemed to be ‘adding economic value’, 2) to increase the amount of short-term thinking by managers, and 3) to improve share prices in the short term.
+
+EVA was created by consultants Stern Stewart & Co.
+",Economic Value Added (EVA),"A relatively complex method of evaluating profitability that takes into account the Cost of Capital.  It allows shareholder expectations as much weight as the rate of interest on debt; the appropriateness of this is debatable.  The practical impacts are 1) to require very high levels of profit before the company is deemed to be ‘adding economic value’, 2) to increase the amount of short-term thinking by managers, and 3) to improve share prices in the short term.
+
+EVA was created by consultants Stern Stewart & Co.",Economic Value Added (EVA),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A relatively complex method of evaluating profitability that takes into account the Cost of Capital.  It allows shareholder expectations as much weight as the rate of interest on debt; the appropriateness of this is debatable.  The practical impacts are 1) to require very high levels of profit before the company is deemed to be ‘adding economic value’, 2) to increase the amount of short-term thinking by managers, and 3) to improve share prices in the short term.
+
+EVA was created by consultants Stern Stewart & Co.",,,Valor Económico Agregado (EVA),"Ingreso Neto dividido por el número de acciones emitidas y avaladas por la compañía, ponderadas por acciones potenciales comprometidas a opción de compra o convertibles de deuda a capital contable. ","VALOR ECONÔMICO ADICIONADO
+
+(VEA)",Parcela do Retorno sobre Investimento superior ao custo do capital.,Economic value added  EVA,"שיטה מורכבת להערכת רווחיות הלוקחת בחשבון את עלות ההון. היא מאפשרת לציפיותיהם של בעלי המניות להוות משקל כאחוז הריבית על החוב. האם משקל זה ראוי? עניין זה שנוי במחלוקת. ההשפעות הפרקטיות הן: 1) להזדקק לרמות גבוהות של רווח לפני שהחברה מחשבת EVA 2) להגדיל את החשיבה קצרת הטווח ע""י המנהלים 3) לשפר את מחירי המניה בטווח הקצר. 
+המונח EVA נהגה בחברת הייעוץ סטרן סטיוארט
+",,
+fa,23-Fixed-Assets.jpg,Fixed Assets ,"Assets categorized as ‘permanent’ and not intended to be ‘turned over’ in the normal business cycle.  Fixed Assets may be tangible items such as land, buildings, equipment and furniture with a useful business life of greater than one year; or they may be intangible items such as [gw] and [ip] property. ",Fixed Assets ,"Assets categorized as ‘permanent’ and not intended to be ‘turned over’ in the normal business cycle.  Fixed Assets may be tangible items such as land, buildings, equipment and furniture with a useful business life of greater than one year; or they may be intangible items such as [gw] and [ip] property. ",Fixed Assets ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Assets categorized as ‘permanent’ and not intended to be ‘turned over’ in the normal business cycle.  Fixed Assets may be tangible items such as land, buildings, equipment and furniture with a useful business life of greater than one year; or they may be intangible items such as [gw] and [ip] property. ",Actif Immobilisé,"Actifs dont la caractéristique est d'être  permanents ou à long terme et qui ne sont pas destinés à être réalisés au cours du cycle économique normal d'une année. Au rang de ces actifs, on trouve les terrains, les bâtiments, les machines, le mobilier et le matériel dont la durée de vie utile est supérieure à une année. La perte de valeur ou d'utilité des actifs immobilisés est représentée par l'amortissement, qui est déduit du résultat.",Activos Fijos,"Activos categorizados como “permanentes”, los cuales no van a ser  “rotados” en el ciclo normal de negocio.  Los Activos Fijos incluyen Terrenos, Locales, Maquinaria y Muebles con una existencia útil de más de un año. La reducción de utilidad o valor de los Activos Fijos se representa por la Depreciación periódica que se resta de los ingresos.",ATIVO IMOBILIZADO ,"Parte dos [as] de uma empresa que denota os bens imobilizados (ou de longo prazo) e que não podem ser consumidos  nos 12 meses seguintes à publicação do [bs]. 
+
+Na lista destes ativos, encontram-se  terrenos,  construções, máquinas, mobiliário e material, cuja vida útil é superior a um ano. A perda de valor ou de utilidade dos ativos imobilizados é representada pela amortização, que é deduzida do Resultado.
+",נכסים קבועים Fixed assets:,"נכסים המוגדרים כקבועים ולא צפוי שיהפכו למזומן במהלך המחזור העסקי הרגיל. נכסים קבועים עשויים להיות מוחשיים כמו קרקע, מבנים, ציוד וריהוט בעלי אורך חיים של למעלה משנה או לא מוחשיים כמו מוניטין ונכסים אינטלקטואליים. ",Beni Patrimoniali,"Attività considerate «permanenti» e che non verranno «convertite» durante il normale ciclo di affari dell'azienda. I Beni Patrimoniali includono Terreni, Fabbricati, Macchinari e Arredamento con una durata fruibile di più di un anno. La perdita di utilità o valore di un Bene Patrimoniale è rappresentata dall'ammortamento periodico che è addebitato contro entrate."
+fac,17-Discounting-Receivables.jpg,Factoring,"Selling [ar] (or invoiced sales) at a discount in order to receive immediate [cash].  
+
+Also called [dcr].
+",Factoring,"Selling [ar] (or invoiced sales) at a discount in order to receive immediate [cash].  
+
+Also called [dcr].",Factoring,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Selling [ar] (or invoiced sale) at a discount in order to receive immediate [cash].  
+
+Also called [dcr].",Factoring,"Vente d'une créance moyennant une retenue, pour dégager immédiatement de la trésorerie.",Factoring,Vender una cuenta por cobrar con un descuento para así recibir efectivo inmediatamente.  Vea también “Descuento”,FACTORING,"Venda da conta de [ar]de uma empresa à uma instituição financeira (factor) , que é revertida automaticamente em [cash].",ניכיון צ'קים Factoring:,מכירת חשבונית בהנחה על מנת לקבל מזומן מיידית. נקרא גם  הנחת מזומן (Discounting receivables). ,Factoring,Cessione dei Crediti sconto allo scopo di ottenere disponibilità immediata di cassa .
+fc,24-Fixed-Cost.jpg,Fixed Cost ,"A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  These ‘Fixed’ or ‘Indirect’ costs will be incurred whether or not any sales are made during the period, thus the designation ‘Fixed’ as opposed to ‘[vc]’.",Fixed Cost ,"A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  These ‘Fixed’ or ‘Indirect’ costs will be incurred whether or not any sales are made during the period, thus the designation ‘Fixed’ as opposed to ‘[vc]’.",Fixed Cost ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  These ‘Fixed’ or ‘Indirect’ costs will be incurred whether or not any sales are made during the period, thus the designation ‘Fixed’ as opposed to ‘[vc]’.",,,Costo Fijo,"Un costo incurrido en la operación general del negocio que no se puede atribuír directamente a los costos de producción de productos  ó servicios.  Estos costos “Fijos” ó “Indirectos” del negocio serán incurridos ya sea que se produzcan o no se produzcan ventas durante el período, contrario a los costos “Variables”.",,,עלות קבועה fixed cost:,עלות הכרוכה בפעילות העסק שאינה משויכת באופן ישיר לעלויות הייצור או השירות. עלות קבועה או עקיפה תופיע בין אם התבצעה מכירה או לא התבצעה. ,Costi Fissi,"Costo sostenuto durante la conduzione generale dell'azienda e che non è direttamente attribuibile al costo di produzione di beni o servizi. Questi costi «Fissi» o «Indiretti» del fare business dovranno essere sostenuti sia che vi siano vendite o meno durante il periodo preso in esame, ecco perché la definizione «Fissi», in opposizione a «Variabili»."
+fgi,22-Inventory.jpg,Finished Goods Inventory (FGI),Fully produced goods which are available for sale to customers.  Inventories are part of [ca].,Finished Goods Inventory (FGI),Fully produced goods which are available for sale to customers.  Inventories are part of [ca].,Finished Goods Inventory (FGI),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Fully produced goods which are available for sale to customers.  Inventories are part of [ca].",Produits Finis,Produits fabriqués disponibles à la vente.,Inventario de Producto Terminado,"Producto totalmente terminado, vendido o listo para la venta al cliente, pero el cual no ha sido entregado todavía.",ESTOQUE DE PRODUTOS ACABADOS,"Produtos fabricados  e estocados, disponíveis para a venda.","לאי תוצרת גמורה Finished goods
+ inventory:
+",מוצרים מוגמרים הזמינים למכירה ללקוחות. מלאי תוצרת גמורה הוא חלק מהנכסים השוטפים של חברה. ,Scorta Prodotti Finiti (FGI),"Prodotti finiti, venduti or pronti per la vendita ai clienti , ma non ancora consegnati."
+fin,21-Finance-Charges.jpg,Finance Charges ,"Expenses associated with financing the business; includes interest, factoring expense, foreign exchange costs, currency hedging, etc.",Finance Charges ,"Expenses associated with financing the business; includes interest, factoring expense, foreign exchange costs, currency hedging, etc.",Finance Charges ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Expenses associated with financing the business; includes interest, factoring expense, foreign exchange costs, currency hedging, etc.",Frais Financiers,"Charges liées au financement de l'entreprise : intérêt, factoring, coût de change, couverture des risques de change, etc.",Cargos de Financiación,"Son los gastos asociados conla financiación del negocio, tales como intereses, factoraje, costos de intercambio monetario, cobertura monetaria, etc.",DESPESAS FINANCEIRAS,"Custos ligados ao financiamento da empresa, tais como: juros, taxas de factoring, custos de mudança, cobertura dos riscos de mudança etc.",הוצאות מימון finance charges:,"הוצאות הנקשרות לפעולות המימון של העסק כולל ריבית, תשלום על ניכיון צ'קים, עלויות המרת מטבע חוץ וכו'. ",Costi Finanziari,"Spese associate con il finanziamento dell'azienda, come interessi, factoring, cambi, compravendita di valuta, ecc."
+fr1,,,,,,,,Profit Net ,"Terme généralement ambigu. Sa signification dépend de la personne à qui vous vous adressez : pour un commerçant, c'est le Chiffre d'Affaires Brut. Pour les gens de la Production, c'est le Bénéfice Brut. Enfin pour les financiers, c'est la dernière ligne du Compte de Résultat, à savoir, le [np].",,,,,,,,
+gi,50-Gross-Profit.jpg,Gross Income,"Gross Income
+Calculation: [sa] less [dc] less [oh]. 
+
+Gross Margin
+Ratio: Gross Income as a percentage of [sa] 
+
+
+Gross Income is the amount of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably. We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",Gross Income,"Gross Income
+Calculation: [sa] less [dc] less [oh]. 
+
+Gross Margin
+Ratio: Gross Income as a percentage of [sa] 
+
+
+Gross Income is the amount of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably. We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",Gross Income,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Gross Income
+Calculation: [sa] less [dc] less [oh]. 
+
+Gross Margin
+Ratio: Gross Income as a percentage of [sa] 
+
+
+Gross Income is the amount of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably. We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",,,Utilidad Bruta,,,,רווח גולמי Gross profit:,"החישוב: סך המכירות פחות העלויות הישירות והוצאות החרושת. 
+רווח גולמי הוא הרווח הנותר לאחר הפחתת העלויות הישירות והמשתנות של עבודה וחומרי גלם ועלויות החרושת המקושרות לייצור המוצרים או השירותים. 
+",,
+gm,50a-Gross-Margin.jpg,Gross Margin,"[gi]
+Calculation: [sa] less [dc] less [oh]. 
+
+GROSS MARGIN
+Ratio: [gi] as a percentage of [sa] 
+
+
+Gross Margin is the percentage of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",Gross Margin,"[gi]
+Calculation: [sa] less [dc] less [oh]. 
+
+GROSS MARGIN
+Ratio: [gi] as a percentage of [sa] 
+
+
+Gross Margin is the percentage of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",Gross Margin,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[gi]
+Calculation: [sa] less [dc] less [oh]. 
+
+GROSS MARGIN
+Ratio: [gi] as a percentage of [sa] 
+
+
+Gross Margin is the percentage of profit available after deducting from sales the direct (or variable) costs of labor and materials, and the costs of the overheads applied to the production of goods and services.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We use ‘margin’ to denote a percentage (of [sa]). 
+
+Example: 
+- Sales of 200 less COS of 80 less factory overheads of 10 equals Gross Income of 110.
+- Gross Income of 110 divided by Sales of 200 equals Gross Margin of 55%.
+",Marge Brute,"Bénéfice disponible après déduction du Chiffre d'Affaires des charges directes de main d'œuvre et de matières premières, ainsi que la part des frais généraux de fabrication relative aux produits et services.",Margen Bruto,,,,רווח גולמי שולי Gross profit margin:,היחס: הרווח הגולמי כאחוז מסך המכירות. ,,
+gp,50-Gross-Profit.jpg,Gross Profit,See [gi].,Gross Profit,See [gi].,Gross Profit,See [gi].,,,Utilidad Bruta,"La cantidad disponible de utilidades después de restar de las Ventas el costo directo (variable) de la mano de obra y materiales, más los costos generales atribuíbles a la producción de los bienes y servicios.",MARGEM BRUTA OU LUCRO BRUTO,"Lucro disponível após deduzir do Faturamento, os Custos Diretos (mão-de-obra e de matérias-primas) e Despesas Gerais de Fabricação.",Gross Income,[gi],Utile Lordo,"Utile disponibile dopo aver sottratto dalle vendite i costi diretti (variabili), il costo della manodopera e materiali, più il costo delle spese generali di produzione applicate alla produzione di beni o servizi."
+gs,18-Sales.jpg,Gross Sales ,"Total sales revenue before applying any sales discounts, allowances or returns.  
+
+See also [sa]; [ns].",Gross Sales ,"Total sales revenue before applying any sales discounts, allowances or returns.  
+
+See also [sa]; [ns].",Gross Sales ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Total sales revenue before applying any sales discounts, allowances or returns.  
+
+See also [sa]; [ns]. ",Chiffre d'Affaires Brut,"Chiffre d'Affaires total, avant toute remise ou réduction.",Ventas Brutas,"El total de las Ventas, antes de aplicar cualquier descuento o concesión.",FATURAMENTO BRUTO,"Volume de negócios total, antes de qualquer desconto ou dedução.",Gross sales:,"סך ההכנסות ממכירות לפני ביצוע הנחות והחזרים.
+ראה גם: מכירות, מכירות נטו. 
+",Vendite Lorde,"Totale delle vendite, prima di applicare qualsiasi sconto sul prezzo di vendita o concessione."
+gw,25-Goodwill.jpg,Goodwill ,[ia] arise when [as] are purchased for more than their ‘book value’.  The ‘Intangible’ value must be re-evaluated on a periodic basis.,Goodwill ,[ia] arise when [as] are purchased for more than their ‘book value’.  The ‘Intangible’ value m,Goodwill ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[ia] arise when [as] are purchased for more than their ‘book value’.  The ‘Intangible’ value m",Fond Commercial,Elément incorporel qui apparaît lorsque des actifs sont achetés à un prix supérieur à leur valeur comptable ou à leur juste valeur marchande. Cette valeur incorporelle est amortie sur une période comprise entre 4 et 40 années.,Fondo de Comercio,Un Activo Intangible que se presenta cuando los Activos son adquiridos por un valor sobre su Valor Contable o su Valor Real.  Este valor “Intangible” se descuenta durante un período de 4 y 40 años.,FUNDO DE COMERCIAIS,"Item intangível que representa a diferença entre o valor contábil dos ativos de uma empresa e o seu valor real de mercado, que leva em conta também o prestígio da empresa e sua marca. Este valor é depreciado em um período compreendido entre 4 e 40 anos.",מוניטין Goodwill:,נכס לא מוחשי שמופיע כאשר נכסים נרכשים בערך הגבוה מערכם בספרים. קיימת חובה להעריך מחדש נכס זה על בסיס תקופתי. ,Avviamento,Bene intangibile che proviene dall'acquisto di attività a più del loro valore contabile o giusto valore di mercato. Questo valore «Intangibile» viene ammortizzato in un periodo da 4 a 40 anni.
+ia,28-Intangible-Asset.jpg,Intangible Assets,An asset which has a perceived value but without a tangible nature. Typical examples are [gw] and [ip]. ,Intangible Assets,An asset which has a perceived value but without a tangible nature. Typical examples are [gw] and [ip]. ,Intangible Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+An asset which has a perceived value but without a tangible nature. Typical examples are [gw] and [ip]. ",,,Activos Intangibles,,,,נכסים לא מוחשיים Intangible assets:,נכס בעל ערך שאינו מוחשי. דוגמאות טיפוסיות לנכסים לא מוחשיים הן מוניטין ונכסים אינטלקטואליים. ,,
+idc,24-Fixed-Cost.jpg,Indirect Cost,"A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  Compare to [dc].
+
+See also [fc] vs [vc].",Indirect Cost,"A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  Compare to [dc].
+
+See also [fc] vs [vc].",Indirect Cost,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A cost incurred in the general operations of the business that is not directly attributable to the costs of producing goods and services.  Compare to [dc].
+
+See also [fc] vs [vc].",Coût Indirect,"Coût généré par la marche normale de l'entreprise, qu'il n'est pas possible d'imputer directement aux produits et services. Ces charges indirectes sont enregistrées dans le Compte de Résultat même en l'absence de ventes dans la période considérée.",Costo Indirecto,,CUSTOS INDIRETOS ,"Custo associado ao funcionamento normal da empresa, que não é possível imputar diretamente aos produtos e serviços. Estes Custos são registrados na Demonstrativo de Resultados mesmo na ausência de vendas no período considerado.",,,,
+inc,54-Income.jpg,Income ,"Ask [wdym]. It could mean Sales Income (Sales Revenue at the top of the Income Statement), or it could mean Net Income (Net Profit at the bottom of the Income Statement). ",Income ,"Ask [wdym]. It could mean Sales Income (Sales Revenue at the top of the Income Statement), or it could mean Net Income (Net Profit at the bottom of the Income Statement). ",Income ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ask [wdym]. It could mean Sales Income (Sales Revenue at the top of the Income Statement), or it could mean Net Income (Net Profit at the bottom of the Income Statement). ",Revenu,Terme ambigu. Il peut renvoyer aussi bien au Chiffre d'Affaires brut qu'au Résultat net.,Utilidades,,,,הכנסות income:,"יש לוודא מהי הכוונה ב""הכנסות""- הכנסה עשויה להיות ההכנסה הכוללת ממכירות המופיעה בראש דו""ח הרווח והפסד או עשויה להיות ההכנסה הנקייה (רווח נקי המופיע בתחתית דו""ח הרווח והפסד). ",,
+inv,22-Inventory.jpg,Inventory,"Raw materials, work in process (WIP), and finished goods.  ",Inventory,"Raw materials, work in process (WIP), and finished goods.  ",Inventory,,,,Inventario,,,,,,,
+iot,Income-Outcome-Triangle.jpg,Income/Outcome Triangle for Ratio Analysis,"The visual representation of the relationships between [sa], [ni] and [as] overlaid on [tcb].  
+
+Created by consultants Andromeda Training, Inc.
+",Income/Outcome Triangle for Ratio Analysis,"The visual representation of the relationships between [sa], [ni] and [as] overlaid on [tcb].  
+
+Created by consultants Andromeda Training, Inc.",Income/Outcome Triangle for Ratio Analysis,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The visual representation of the relationships between [sa], [ni] and [as] overlaid on [tcb].  
+
+Created by consultants Andromeda Training, Inc.",,,Triángulo de Cocientes de Income|Outcome,,,,Income/outcome triangle for ratio analysis:,"הייצוג הוויזואלי של היחס בין מכירות, הכנסה נקייה ונכסים כפי שהיא פרושה על לוח המשחק.
+נוצר ע""י חברת Andromeda Training Inc.
+",,
+ip,29-Intellectual-Property.jpg,Intellectual Property,"Copyrights, Patents, Trademarks and Service Marks.  ",Intellectual Property,"Copyrights, Patents, Trademarks and Service Marks.  ",Intellectual Property,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Copyrights, Patents, Trademarks and Service Marks.  ",,,Propiedad Intelectual,,,,נכסים אינטלקטואליים Intellectual property:,"זכויות יוצרים, פטנטים רשומים, סימנים מסחריים רשומים. ",,
+is,8-Income-Statement.jpg,Income Statement ,"A summary of the income and expenses for the company over the operating period – a financial History Book for the fiscal period (month, quarter, year).   
+
+The left side of the [tcb] (and of the Income/Outcome business simulation game board) is an Income Statement.   See also [bs].",Income Statement ,"A summary of the income and expenses for the company over the operating period – a financial History Book for the fiscal period (month, quarter, year).   
+
+The right side of the [tcb] (and of the Income/Outcome business simulation game board) is an Income Statement.   See also [bs].",Income Statement ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A summary of the income and expenses for the company over the operating period – a financial History Book for the fiscal period (month, quarter, year).   
+
+The right side of the [tcb] (and of the Income/Outcome business simulation game board) is an Income Statement.   See also [bs].",Compte de Résultat,"Compteur ou livre d'histoire financière de l'entreprise. Il indique tous les produits, les charges directes et les charges indirectes intervenues dans la période fiscale considérée (mois, trimestre, année).",Estado de Resultados,"El libro de la historia financiara, que muestra todos los Ingresos, los Costos Directos (Variables), y los Costos Indirectos (Fijos) incurridos durante el período fiscal, ya sea mensual, trimestral, o annual.",DEMONSTRATIVO DE RESULTADOSS,É um resumo das entradas (receitas) e saídas (despesas) de uma empresa em um dado período. É o histórico financeiro da empresa neste período.,"דו""ח רווח והפסד Income statement:","סיכום ההכנסות וההוצאות של חברה לאורך תקופת תפעול מסוימת. זהו ספר ההיסטוריה כלכלי בעבור תקופה מסוימת (חודש, רבעון שנה).
+הצד הימני של לוח המשחק מייצג את דו""ח רווח והפסד. 
+",Conto Economico,"E' la cronistoria finanziaria dell'azienda, riportante le Entrate, i Costi Diretti (Variabili) e Indiretti (Fissi) sostenuti nel periodo fiscale in esame (mese, trimestre, anno)."
+it,22-Inventory.jpg,Inventory Turns,See [its].,Inventory Turns,See [its].,Inventory Turns,,,,Rotación de Inventario,,,,,,,
+its,30-Inventory-Turnover.jpg,Inventory Turnover ,"Ratio: Annual [COS] divided by the average value of inventory on hand.  
+
+This ratio is the number of times a business sells out its inventory during the year.  Also called Inventory Turns.",Inventory Turnover ,"Ratio: Annual [COS] divided by the average value of inventory on hand.  
+
+This ratio is the number of times a business sells out its inventory during the year.  Also called Inventory Turns.",Inventory Turnover ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: Annual [COS] divided by the average value of inventory on hand.  
+
+This ratio is the number of times a business sells out its inventory during the year.  Also called Inventory Turns.",,,Rotación de Inventario,El número de veces que un negocio vende y produce más bienes (inventario) durante el año;  el Costo de Ventas anual dividido por el costo promedio del inventario a mano.,GIRO DOS ESTOQUES,Quantidade de vezes que os estoques são repostos ao longo de um ano.,מחזור מלאי Inventory turnover:,"היחס: עלות מכירות שנתית מחולקת בערך הממוצע של המלאי הזמין.
+יחס זה מבטא את מספר הפעמים שעסק מוכר את כל המלאי שלו במהלך שנה. 
+",Rotazione Scorte,Numero di volte in cui un'azienda vende e produce più beni (scorte) durante l'anno. E' il Costo Annuale delle Vendite diviso per la media del costo delle scorte a disposizione.
+lev,,Leverage,"LEVERAGE is how much you extend your [as] by borrowing against your investment.  
+
+See also [levr].",Leverage,"LEVERAGE is how much you extend your [as] by borrowing against your investment.  
+
+See also [levr].",Leverage,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+LEVERAGE is how much you extend your [as] by borrowing against your investment.  
+
+See also [levr].",,,Apalancamiento,,,,מינוף Leverage ויחס מינוף Leverage ratio:,"באיזו מידה אתה מרחיב את נכסייך באמצעות הלוואות העומדות כנגד השקעותייך. 
+יחס המינוף משלב את הנכסים, ההון העצמי וההתחייבויות של החברה. 
+לדוגמא:
+אם אתה משקיע 60,000$ מכספך בעסק ולווה 30,000$ נוספים מהבנק- שווי נכסייך הכולל הינו 90,000$. אתה יכול לבטא את מידת המינוף שלך במספר דרכים: 
+חוב להון עצמי: 30/60=0.5
+חוב לנכסים: 30/90= 0.33
+שני המספרים מתארים את אותו המצב ושניהם עשויים להיות מכונים מינוף. אדם אחד יאמר כי המינוף הוא 50% והשני יאמר כי המינוף הינו 33%. כאשר מדובר על מינוף עלייך לברר למה בדיוק הכוונה.
+",,
+levr,31-Leverage-and-Lev.RATIO.jpg,Leverage Ratios,"LEVERAGE RATIOS incorporate any two of the following: [as], [eq], [lia]. 
+
+Example: 
+If you invest $60K of your money in a business, and borrow an additional $30K from the bank, you have assets of $90K.  You can express your leverage in several ways: 
+
+Debt to Equity : 30/60 = .5 
+Debt Ratio (i.e. Debt to Assets): 30/90 = .33
+
+Both these numbers are expressing the same situation, and both can be called leverage. One person might say “We’re leveraged 50%”, while another could say “We’re leveraged 33%.”  
+
+See also [lev].
+
+Be sure to ask, [wdym].",Leverage Ratios,"LEVERAGE RATIOS incorporate any two of the following: [as], [eq], [lia]. 
+
+Example: 
+If you invest $60K of your money in a business, and borrow an additional $30K from the bank, you have assets of $90K.  You can express your leverage in several ways: 
+
+Debt to Equity : 30/60 = .5 
+Debt Ratio (i.e. Debt to Assets): 30/90 = .33
+
+Both these numbers are expressing the same situation, and both can be called leverage. One person might say “We’re leveraged 50%”, while another could say “We’re leveraged 33%.”  
+
+See also [lev].
+
+Be sure to ask, [wdym].",Leverage Ratios,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+LEVERAGE RATIOS incorporate any two of the following: [as], [eq], [lia]. 
+
+Example: 
+If you invest $60K of your money in a business, and borrow an additional $30K from the bank, you have assets of $90K.  You can express your leverage in several ways: 
+
+Debt to Equity : 30/60 = .5 
+Debt Ratio (i.e. Debt to Assets): 30/90 = .33
+
+Both these numbers are expressing the same situation, and both can be called leverage. One person might say “We’re leveraged 50%”, while another could say “We’re leveraged 33%.”  
+
+See also [lev].
+
+Be sure to ask, [wdym].",,,Cocientes de Apalancamiento,,,,מינוף Leverage ויחס מינוף Leverage ratio:,"באיזו מידה אתה מרחיב את נכסייך באמצעות הלוואות העומדות כנגד השקעותייך. 
+יחס המינוף משלב את הנכסים, ההון העצמי וההתחייבויות של החברה. 
+לדוגמא:
+אם אתה משקיע 60,000$ מכספך בעסק ולווה 30,000$ נוספים מהבנק- שווי נכסייך הכולל הינו 90,000$. אתה יכול לבטא את מידת המינוף שלך במספר דרכים: 
+חוב להון עצמי: 30/60=0.5
+חוב לנכסים: 30/90= 0.33
+שני המספרים מתארים את אותו המצב ושניהם עשויים להיות מכונים מינוף. אדם אחד יאמר כי המינוף הוא 50% והשני יאמר כי המינוף הינו 33%. כאשר מדובר על מינוף עלייך לברר למה בדיוק הכוונה.
+",,
+lia,14-Liabilities.jpg,Liabilities,"The debts of the company; includes bank loans, salaries and benefits payable, suppliers’ bills ([ap]), taxes due, etc.  Liabilities are usually sorted into current or short-term (falling due within one year) and long-term (payment period is greater than one year). ",Liabilities,"The debts of the company; includes bank loans, salaries and benefits payable, suppliers’ bills ([ap]), taxes due, etc.  Liabilities are usually sorted into current or short-term (falling due within one year) and long-term (payment period is greater than one year). ",Liabilities,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The debts of the company; includes bank loans, salaries and benefits payable, suppliers’ bills ([ap]), taxes due, etc.  Liabilities are usually sorted into current or short-term (falling due within one year) and long-term (payment period is greater than one year). ",,,Pasivos,"Las deudas de la Compañía (préstamos bancarios, salarios y beneficios devengados,  cuentas de los proveedores, Impuestos, etc.)",PASSIVO OU OBRIGAÇÕES,"Débito ou dívidas que se tem com um credor, geralmente com origem em uma transação passada, e que será paga num futuro próximo. Em determinado momento, constitui o valor monetário dos empréstimos bancários, salários e Custos, faturas dos fornecedores, impostos etc.",התחייבויות Liabilities:,"חובות החברה כולל חובות לבנקים, הלוואות, משכורות ותשלומי רווחה, חובות לספקים, התחייבויות מס וכיו""ב. התחייבויות מחולקות בדרך כלל להתחייבויות שוטפות או קצרות מועד (שמועד פירעונן תוך שנה) ולהתחייבויות ארוכות מועד (שמועד פירעונן עולה על שנה).",Passività,"Debiti dell'azienda (mutui bancari, stipendi e benefici esigibili, fatture fornitori, imposte, ecc.)."
+ltd,32-Long-Term--Liabilities.jpg,Long-term Debt,"[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",Long-term Debt,"[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",Long-term Debt,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",Dettes à Long Terme,"Sommes empruntées et autres dettes non remboursables dans l'année : emprunts bancaires, obligations, …",Deudas a Largo Plazo,"Préstamos y otras deudas que no se vencen en un año, por ejemplo los Préstamos bancarios, bonos, etc.",PASSIVO OU DÍVIDA (EXIGÍVEL) À LONGO PRAZO,"Obrigações, que não são reembolsáveis no ano, tais como: Empréstimos Bancários, dívidas, etc.",התחייבויות ארוכות טווח Long term debt ,"התחייבויות שתקופת פירעונן עולה על שנה, כולל הלוואות מבנקים, אגרות חוב וכיו""ב. ",Debiti a lungo termine,"Prestiti e altri debiti che non dovranno essere ripagati entro un anno come mutui bancari, titoli, ecc."
+ltl,32-Long-Term--Liabilities.jpg,Long-Term Liabilities,"[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",Long-Term Liabilities,"[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",Long-Term Liabilities,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[lia] which have a payment period exceeding one year; includes bank loans, bonds, etc.",,,Pasivos a Largo Plazo,,,,התחייבויות ארוכות טווח Long term liabilities:,"התחייבויות שתקופת פירעונן עולה על שנה, כולל הלוואות מבנקים, אגרות חוב וכיו""ב. ",,
+mar,42-Profit-Margins.jpg,Margin,"[gm]: [gp] as a percentage of [sa] 
+[om]: [op] as a percentage of [sa]
+[ros]: [np] as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ to denote a percentage (of [sa]). 
+
+People will think of profit margin at different points on the [is].  Production might look at [gm] while operations might look at [om]; the Finance Department looks at [ros].
+",Margin,"[gm]: [gp] as a percentage of [sa] 
+[om]: [op] as a percentage of [sa]
+[ros]: [np] as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ to denote a percentage (of [sa]). 
+
+People will think of profit margin at different points on the [is].  Production might look at [gm] while operations might look at [om]; the Finance Department looks at [ros].
+",Margin,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[gm]: [gp] as a percentage of [sa] 
+[om]: [op] as a percentage of [sa]
+[ros]: [np] as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ to denote a percentage (of [sa]). 
+
+People will think of profit margin at different points on the [is].  Production might look at [gm] while operations might look at [om]; the Finance Department looks at [ros].
+",,,Margen,,,,שוליים margin:,"השימוש במונח ""שוליים"" מתייחס לאחוזים מהמכירות. 
+בחינת שולי הרווח תלויה בנקודת המבט: מחלקת ייצור תתעניין ברווח הגולמי השולי בעוד התפעול יתעניין ברווח התפעולי השולי. המחלקה הפיננסית תתעניין בתשואה למכירות.
+",,
+na,,Net Asset,"[wdym]  This term can describe wildly different situations; here are some possibilities.  
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets). 
+2) Total [as] less [cl].  
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).  
+
+And all of these terms are different from Net Asset Value.  Make sure you agree on the meaning!
+",Net Asset,"[wdym]  This term can describe wildly different situations; here are some possibilities.  
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets). 
+2) Total [as] less [cl].  
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).  
+
+And all of these terms are different from Net Asset Value.  Make sure you agree on the meaning!",Net Asset,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[wdym]  This term can describe wildly different situations; here are some possibilities.  
+
+1) Total [as] less non interest-bearing liabilities (i.e. Net Assets). 
+2) Total [as] less [cl].  
+3) Total [as] less Total [lia] (i.e. [eq] or Net Worth).  
+
+And all of these terms are different from Net Asset Value.  Make sure you agree on the meaning!",Actif Net,Actif constitué des Capitaux Propres et des Emprunts à long terme. Ne comprend pas l'actif issu des dettes à court terme.,Activos Netos,,ATIVO LÍQUIDO,Ativo constituído dos Capitais Próprios e dos empréstimos à longo prazo. Não compreende o ativo proveniente das dívidas à curto prazo.,נכסים נטו Net assets: למה הכוונה? ,"מונח זה עשוי לתאר מצבים שונים. הנה מספר אפשרויות:
+1)	סך הנכסים פחות התחייבויות שאינן נושאות ריבית.
+2)	סך הנכסים פחות התחייבויות שוטפות.
+3)	סך הנכסים פחות סך ההתחייבויות (הון עצמי או שווי נקי). 
+",Reddito Netto,"Il reddito rimasto a disposizione dei proprietari, depurato dai costi, spese, interessi ed imposte."
+nabs,5-Balance-Sheet.jpg,Net Asset Balance Sheet,"A Balance Sheet balancing the Total Assets less non-interest bearing liabilities against the combined total of Interest-Bearing Liabilities and equity. 
+
+This version of the Balance Sheet has advantages for measuring management performance, and is prevalent outside North America. 
+
+See also [tabs].
+
+[wdym]  Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].
+",Net Asset Balance Sheet,"A Balance Sheet balancing the Total Assets less non-interest bearing liabilities against the combined total of Interest-Bearing Liabilities and equity. 
+
+This version of the Balance Sheet has advantages for measuring management performance, and is prevalent outside North America. 
+
+See also [tabs].
+
+[wdym]  Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].",Net Asset Balance Sheet,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A Balance Sheet balancing the Total Assets less non-interest bearing liabilities against the combined total of Interest-Bearing Liabilities and equity. 
+
+This version of the Balance Sheet has advantages for measuring management performance, and is prevalent outside North America. 
+
+See also [tabs].
+
+[wdym]  Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].",,,Balance de Activos Netos,,,,מאזן נכסים Net assets balance sheet:,"מאזן המאזן את סך הנכסים פחות התחייבויות שאינן נושאות ריבית כנגד סך ההתחייבויות נושאות הריבית וההון העצמי.
+גרסא זו של המאזן מגלמת יתרונות למדידת ביצועים עסקיים ושכיחה מחוץ לצפון אמריקה. 
+",,
+nas,,Net Assets,"Calculation:  Total [as] less Non-Interest Bearing Liabilities
+
+Net Assets are that portion of Total Assets funded by Corporate HQ long-term financing and share capital.",Net Assets,"Calculation:  Total [as] less Non-Interest Bearing Liabilities
+
+Net Assets are that portion of Total Assets funded by Corporate HQ long-term financing and share capital.",Net Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation:  Total [as] less Non-Interest Bearing Liabilities
+
+Net Assets are that portion of Total Assets funded by Corporate HQ long-term financing and share capital.",,,Activos Netos,,ATIVO LÍQUIDO,Ativo constituído dos Capitais Próprios e dos empréstimos à longo prazo. Não compreende o ativo proveniente das dívidas à curto prazo.,נכסים נטו  net assets:,"חישוב: סך הנכסים פחות התחייבויות שאינן נושאות ריבית.
+נכסים נטו הם החלק מסך הנכסים הממומנים במימון ארוך טווח והון המניות של החברה. 
+",,
+nato,,Net Asset Turnover,"Ratio: [sa] divided by [nas]
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money invested in the business by head office, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+See also [iot], [rona], [ato].",Net Asset Turnover,"Ratio: [sa] divided by [nas]
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money invested in the business by head office, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+See also [iot], [rona], [ato].",Net Asset Turnover,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [sa] divided by [nas]
+
+This ratio measures how asset-intensive a business is and the efficiency of the assets employed. 
+
+Asset Turnover shows the speed with which an amount of cash, equivalent to the money invested in the business by head office, comes back in through the door in fresh sales.  It isn’t concerned with profit, only with cash flow.  If sales are rapid, little cash is tied up to keep the business going; which may make it easier to expand. 
+
+See also [iot], [rona], [ato].",,,Rotación de Activos Netos,,,,,,,
+nav,,Net Asset Value,"Calculation: Total [as] less [ia] less [lia]. 
+
+This is the amount of cash you would have if everything owned by the business was sold, and all debts were paid.  It is a very conservative ‘worst-case’ valuation of what a business would be worth if it had to close down.
+
+Be sure to ask, [wdym] Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].",Net Asset Value,"Calculation: Total [as] less [ia] less [lia]. 
+
+This is the amount of cash you would have if everything owned by the business was sold, and all debts were paid.  It is a very conservative ‘worst-case’ valuation of what a business would be worth if it had to close down.
+
+Be sure to ask, [wdym] Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].",Net Asset Value,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: Total [as] less [ia] less [lia]. 
+
+This is the amount of cash you would have if everything owned by the business was sold, and all debts were paid.  It is a very conservative ‘worst-case’ valuation of what a business would be worth if it had to close down.
+
+Be sure to ask, [wdym] Any term which uses the phrase ‘net asset’ or ‘net assets’ must be examined closely.  See [na]; [nas].",,,Valoración de los Activos Netos,,,,שווי נכסים net assets value:,"החישוב: סך הנכסים פחות נכסים לא מוחשיים פחות התחייבויות.
+ערך הנכסים הוא ערך החברה אם היא סוגרת את עסקיה.
+",,
+ni,19-Net-Income.jpg,Net Income,"Net Income
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. Also called Net Profit.
+
+[ros]
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Example: 
+• Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20. 
+• Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.",Net Income,"Net Income
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. Also called Net Profit.
+
+[ros]
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Example: 
+• Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20. 
+• Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.
+",Net Income,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Net Income
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. Also called Net Profit.
+
+[ros]
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Example: 
+• Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20. 
+• Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.
+",,,Utilidad Neta,"La utilidad que les queda a los dueños después de que todos los costos, gastos, intereses e impuestos han sido pagados.",,,"הכנסה נקייה ותשואה למכירות
+Net income and return on sales:
+","הכנסה נקייה: הרווח הנותר לבעלים לאחר הפחתת כל ההוצאות, הוצאות המימון והמיסוי. נקרא גם רווח נקי. 
+תשואה למכירות: הינו יחס המבטא את ההכנסה הנקייה כאחוז מהמכירות. 
+
+מכירות של 200 פחות עלות מכר של 80, פחות הוצאות תפעול של 70, פחות הוצאות מימון של 20 ומיסוי של 10, משאירים הכנסה נקייה של 20.
+הכנסה נקייה של 20 מחולקת לכלל המכירות (200) שווה לתשואה למכירות של 10%
+",,
+np,19-Net-Income.jpg,Net Profit,See [ni].,Net Profit,See [ni].,Net Profit,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: [gs] at list price less any discounts, sales returns and allowances, but before subtracting the [cos] and [oe].
+
+Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+Net Sales is the number used in Financial Statements if the line item just says ’Sales.’
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales.  The term ‘Total Sales’ could refer to [gs] or Net Sales.   ",Résultat net,"Bénéfice qui revient aux propriétaires une fois payées toutes les charges, frais, intérêts et impôts.
+
+
+Voyez aussi [fr1].",Utilidad Neta,Otro término para Ingreso Neto (vea el anterior).,RESULTADO LÍQUIDO,"Lucro resultante da atividade uma vez pagos todos os Custos, Despesas, juros e impostos.",,,Utile Netto,Sinonimo di Reddito netto (vedi sopra).
+npv,,Net Present Value (NPV),"NPV is used to determine when, if ever, a capital investment will generate a profit, and how much that will be in today’s terms. The Net cash flows are considered in today’s terms (i.e. Present Value), because the money that comes in next year will be worth less than the money that goes out this year.  ",Net Present Value (NPV),"NPV is used to determine when, if ever, a capital investment will generate a profit, and how much that will be in today’s terms. The Net cash flows are considered in today’s terms (i.e. Present Value), because the money that comes in next year will be worth less than the money that goes out this year.  ",Net Present Value (NPV),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+NPV is used to determine when, if ever, a capital investment will generate a profit, and how much that will be in today’s terms. The Net cash flows are considered in today’s terms (i.e. Present Value), because the money that comes in next year will be worth less than the money that goes out this year.  ",,,Valor Presente Neto,,,,,,,
+ns,18-Sales.jpg,Net Sales ,"Calculation: [gs] at list price less any discounts, sales returns and allowances, but before subtracting the [cos] and [oe].
+
+Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+Net Sales is the number used in Financial Statements if the line item just says ’Sales.’
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales.  The term ‘Total Sales’ could refer to [gs] or Net Sales.   ",Net Sales ,"Calculation: [gs] at list price less any discounts, sales returns and allowances, but before subtracting the [cos] and [oe].
+
+Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+Net Sales is the number used in Financial Statements if the line item just says ’Sales.’
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales.  The term ‘Total Sales’ could refer to [gs] or Net Sales.   ",Net Sales ,,Chiffre d'Affaires Net,"Chiffe d'Affaires total moins les remises, les retours et les rabais sur ventes, mais avant déduction du Coût des Produits Vendus et des charges d'exploitation.",Ventas Netas,"Total de las Ventas menos cualquier descuento, devolución, y concesión, pero antes de restar el Costo de las Ventas y los Costos de Operación.",FATURAMENTO LÍQUIDO,"Faturamento Bruto menos os descontos, antes da dedução do Custo dos Produtos Vendidos e dos Custos de Exploração.",מכירות נטו net sales:,"חישוב: מכירות פחות הנחות, החזרים אך לפני הפחתת עלות המכר ועלויות תפעול. 
+הכנסות ממכירות מוצרים ושירותים שהם חלק מהפעילות השוטפת של החברה.
+ממכירות נטו הוא מספר המופיע בדו""ח רווח והפסד בשורת המכונה ""מכירות""- המושג מכירות מתייחס בדרך כלל למכירות נטו. 
+",Vendite al Netto,"Totale vendite meno sconti e proventi da vendite e concessioni, ma prima del Costo delle Vendite e Costi di Gestione."
+nw,9-Shareholders-Equity.jpg,Net Worth,"The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity. ",Net Worth,"The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity. ",Net Worth,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The ownership the shareholders have in the company, represented by the [cs] and the [re].  Also called Shareholders’ Equity. ",,,Valor Neto,,,,שווי נקי (נטו) net worth:,בעלות מחזיקי המנויות בחברה המבוטאת באמצעות הון המניות והרווח הנצבר. נקרא גם הון בעלי המניות. ,,
+nwc,49-Working-Capital.jpg,Net Working Capital ,See [wc],Net Working Capital ,See [wc],Net Working Capital ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [wc]",,,Capital de Trabajo Neto,,,,,,,
+oca,51-Other-Current-Assets.jpg,Other Current Assets,"Deposits, bonds and securities which are not included in [cash], but can be readily converted into cash. ",Other Current Assets,"Deposits, bonds and securities which are not included in [cash], but can be readily converted into cash. ",Other Current Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Deposits, bonds and securities which are not included in [cash], but can be readily converted into cash. ",,,Otros Activos Corrientes,,,,נכסים שוטפים אחרים Other Current Assets:,"הפקדות, אגרות חוב ובטחונות שאינן כלולות במניין המזומנים אך ניתן להמירם למזומן באופן מיידי. ",,
+oe,24-Fixed-Cost.jpg,Operating Expense ,"The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges. 
+
+Operating Expense is also referred to as Overhead.
+",Operating Expense ,"The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges. 
+
+Operating Expense is also referred to as Overhead.
+",Operating Expense ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges. 
+
+Operating Expense is also referred to as Overhead.
+",Coût d'Exploitation,"Charges liées à l'exploitation normale de l'entreprise, hors intérêts et pertes non récurrentes.",Gasto Operativo,"Aquellos gastos debidos a la operación normal del negocio, excluyendo los gastos de Intereses y cargos no recurrentes.  También se les llama Gastos Generales.",CUSTOS DE EXPLORAÇÃO,"Custos ligados à exploração normal da empresa, durante um período determinado; não se acham incluídas as despesas de financiamento, pagamento de juros, etc.",הוצאות תפעול Operating Expense:,"ההוצאות שאינן עלויות מכר הקשורות למהלך התפעול הרגיל של החברה, כולל פיתוח, פרסום, שכר, שכר דירה והוצאות כלליות, אך ללא עלויות מימון, מיסוי והוצאות חריגות.
+הוצאות תפעול מכונות גם תקורה (overhead). 
+",Spese di Gestione,"Spese che rientrano nella normale gestione dell'azienda, escluse le spese di interessi o spese iniziali. Anche dette Spese Generali."
+ofa,52-Other-Fixed-Assets.jpg,Other Fixed Assets,The accumulation of [fa] which are not detailed by individual class on the [bs].   ,Other Fixed Assets,The accumulation of [fa] which are not detailed by individual class on the [bs].   ,Other Fixed Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The accumulation of [fa] which are not detailed by individual class on the [bs].   ",,,Otros Activos Fijos,,,,נכסים קבועים אחרים Other Fixed Assets:,הצטברות הנכסים הקבועים שאינם מפורטים באופן ייחודי במאזן החברה.  ,,
+oh,24-Fixed-Cost.jpg,Overhead(s),"The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges.  Also called Operating Expense.",Overhead(s),"The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges.  Also called Operating Expense.",Overhead(s),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The after-COS expenses related to normal operation of the business including R&D, advertising, salaries, rent and utilities, but excluding [fin], taxes, and exceptional (one-time) charges.  Also called Operating Expense.",,,Gastos,Costos atribuíbles a áreas específicas o la operación del negocio; ejemplo:  Gastos Generales de Fábrica.,DESPESAS GERAIS,[idc],תקורה Overheads:,"ההוצאות המופיעות לאחר עלויות המכר והמקושרות לפעילות השוטפת של החברה כולל הוצאות פיתוח, פרסום, שכר, שכר דירה והוצאות כלליות אך ללא הוצאות מימון, מיסוי והוצאות חריגות חד פעמיות. נקרא גם ""הוצאות תפעול"". ",Spese Generali,"Costi attribuibili ad aree specifiche o operazioni aziendali, cioè le Spese Generali di Produzione."
+oi,35-Operating-Income.jpg,Operating Income ," Operating Income 
+Calculation: [sa] less [cos] less [oe].  
+
+[om]
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",Operating Income ," Operating Income 
+Calculation: [sa] less [cos] less [oe].  
+
+[om]
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",Operating Income ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Operating Income 
+Calculation: [sa] less [cos] less [oe].  
+
+[om]
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",Résultat d'Exploitation,Résultat avant paiement des intérêts et des impôts.,Ingreso Operativo,Los Ingresos antes de los Intereses e Impuestos; también se les llama Utilidad Operativa,,,הכנסה תפעולית Operating Income:,"החישוב: מכירות פחות עלות מכר ופחות הוצאות תפעוליות. הכנסה תפעולית היא אחת מהגדרות רבות למושג שעשוי להיות ידוע גם כ:
+1) הכנסות לפני ריבית ומיסוי (EBIT) 2) רווח תפעולי 3) הכנסה תפעולית נמדדת (measured operating income- MOI) . ראה גם: רווח תפעולי ושולי רווח תפעולי. 
+",Utile Operativo,"Reddito prima degli interessi e imposte, anche detto Reddito Operativo."
+om,35a-Operating-Margin.jpg,Operating Margin,"[oi]
+Calculation: [sa] less [cos] less [oe].  
+
+Operating Margin
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",Operating Margin,"[oi]
+Calculation: [sa] less [cos] less [oe].  
+
+Operating Margin
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",Operating Margin,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[oi]
+Calculation: [sa] less [cos] less [oe].  
+
+Operating Margin
+Ratio: [oi] as a percentage of [sa].
+
+
+Operating Income is one of many possible finance terms for the same concept. It can also be known as:
+  Earnings Before Interest and Tax (EBIT), 
+  Operating Profit,
+  Measured Operating Income (MOI),
+  Profit Before Interest and Tax (PBIT) in the United Kingdom, 
+  Result No. 3 in Germany,
+  The Primary Result in Denmark.
+
+This is a real [wdym] with people sometimes using the two terms interchangeably.  We are using ‘margin’ is to denote a percentage (of Sales). 
+
+Example:
+- Sales of 200 less COS of 80 less Operating expense of 70 leaves Operating Profit of 50.
+- Operating Profit of 50 divided by Sales of 200 equals Operating Margin of 25%.",,,Margen Operativo,,,,רווח תפעולי ושולי רווח תפעולי Operating Profit and Operating Margin:,"רווח תפעולי- חישוב של המכירות פחות עלות המכר פחות הוצאות תפעוליות.
+שולי רווח תפעול- זהו יחס המבטא את אחוז הרווח התפעולי מתוך סך המכירות. 
+עלייך לשאול ""למה הכוונה?"" מכיוון שאנשים לעיתים משתמשים בשני המושגים כאחד בטעות. שולי הרווח הם אחוז מהמכירות.
+",,
+op,35-Operating-Income.jpg,Operating Profit,See [oi].,Operating Profit,See [oi].,Operating Profit,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [oi].",,,Utilidad Operativa,,RESULTADO DE EXPLORAÇÃO OU LUCRO DE EXPLORAÇÃO,Resultado financeiro antes dos juros e impostos.,רווח תפעולי ושולי רווח תפעולי Operating Profit and Operating Margin:,"רווח תפעולי- חישוב של המכירות פחות עלות המכר פחות הוצאות תפעוליות.
+שולי רווח תפעול- זהו יחס המבטא את אחוז הרווח התפעולי מתוך סך המכירות. 
+עלייך לשאול ""למה הכוונה?"" מכיוון שאנשים לעיתים משתמשים בשני המושגים כאחד בטעות. שולי הרווח הם אחוז מהמכירות.
+",,
+pandc,Cash-Flow-and-Profit.jpg,Profit & Cash ,"Understanding the Cash Flow of a business is as essential as understanding Profit. 
+  
+[prof] is like food - you need it for the business to grow and to be healthy and strong; but you don’t have to eat all the time. But cash is like air – you need it constantly.  If you run out, and cannot immediately get more, you die.  
+
+Profit happens on the [is]. Cash happens on the [bs]. The two have to be managed separately.
+",Profit & Cash ,"Understanding the Cash Flow of a business is as essential as understanding Profit. 
+  
+[prof] is like food - you need it for the business to grow and to be healthy and strong; but you don’t have to eat all the time. But cash is like air – you need it constantly.  If you run out, and cannot immediately get more, you die.  
+
+Profit happens on the [is]. Cash happens on the [bs]. The two have to be managed separately.",Profit & Cash ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Understanding the Cash Flow of a business is as essential as understanding Profit. 
+  
+[prof] is like food - you need it for the business to grow and to be healthy and strong; but you don’t have to eat all the time. But cash is like air – you need it constantly.  If you run out, and cannot immediately get more, you die.  
+
+Profit happens on the [is]. Cash happens on the [bs]. The two have to be managed separately.",,,Utilidades y Efectivo,,,,רווח ומזומן Profit and Cash:,"הבנת תזרים המזומנים של עסק הינה חיונית כמו הבנת הרווח.
+רווח הוא כמו מזון: אתה זקוק לו על מנת שהעסק יצמח ויהיה בריא וחזק, אך אינך צריך לאכול כל הזמן. מזומן הוא כמו חמצן- אתה זקוק לו כל הזמן, אם נגמר החמצן ואינך יכול להשיג עוד- ""תמות"". 
+הרווח בא לידי ביטוי בדו""ח הרווח והפסד. מזומן מופיע במאזן. את שניהם יש לנהל באופן נפרד. 
+",,
+pay,1-Payables.jpg,Payables ,See [ap],Payables ,See [ap],Payables ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [ap].",,,Deudas,,,,התחייבויות לספקים Payables:,כסף שהחברה חבה לספקיה. חלק מהתחייבויותיה השוטפות של החברה. ,,
+pbv,,Price/Book Value Ratio,"Ratio: Price per Share divided by [bvs]. 
+
+This is a measure of the safety of an investment:  how well is the investment covered by assets if the worst things happen and the company closes operations?
+",Price/Book Value Ratio,"Ratio: Price per Share divided by [bvs]. 
+
+This is a measure of the safety of an investment:  how well is the investment covered by assets if the worst things happen and the company closes operations?",Price/Book Value Ratio,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: Price per Share divided by [bvs]. 
+
+This is a measure of the safety of an investment:  how well is the investment covered by assets if the worst things happen and the company closes operations?",,,Price/Book Value Ratio,,,,יחס ערך מניה לערך מניה במאזן Price/book value ratio:,"היחס: מחיר מניה מחולק בערך המניה בספרים.
+זהו מדד לביטחון ההשקעה. זוהי המידה בה ההכנסה מכוסה במקרה שהחברה מפסיקה את עסקיה. 
+",,
+per,,P/E Ratio,"Ratio: Price per Share divided by [eps]. 
+
+This is the number of years it will take for the investment to be paid back by Earnings at the current rate, and thus reflects the confidence that investors feel in the company.",P/E Ratio,"Ratio: Price per Share divided by [eps]. 
+
+This is the number of years it will take for the investment to be paid back by Earnings at the current rate, and thus reflects the confidence that investors feel in the company.
+",P/E Ratio,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: Price per Share divided by [eps]. 
+
+This is the number of years it will take for the investment to be paid back by Earnings at the current rate, and thus reflects the confidence that investors feel in the company.",,,P/E Ratio,,,,יחס מחיר מניה לרווח למניה  Ratio P/E:,"היחס: מחיר מניה מחולק ברווחים למניה. 
+זהו מספר השנים שייקח להשקעה להחזיר את עצמה באמצעות רווחים ולפיכך משקפת את מידת הביטחון של המשקיעים בחברה. 
+",,
+pl,8-Income-Statement.jpg,Profit & Loss (P&L),"The Profit or Loss for the period, as reflected on the [is]. 
+
+‘The P&L’ is also used as another name for the Income Statement.",Profit & Loss (P&L),"  The Profit or Loss for the period, as reflected on the [is]. 
+
+‘The P&L’ is also used as another name for the Income Statement.",Profit & Loss (P&L),"The Profit or Loss for the period, as reflected on the [is]. 
+
+‘The P&L’ is also used as another name for the Income Statement.",,,Ganancia y Pérdida,"Las Pérdidas o Ganancias para el período, conforme se refleja en la Declaración de Ingresos.  También se conoce como otro nombre para la Declaración de (P&L Statement).",,,"דו""ח רווח והפסד- ","עשוי להיקרא income statement או 
+P&L- profit and loss. 
+",Profitti e Perdite (P&L)," I Profitti o Perdite per il periodo in esame, sono riportati sul Conto Economico (Rendiconto P&L)."
+pla,8-Income-Statement.jpg,Profit & Loss Account (P&L),Another name for the [is].,Profit & Loss Account (P&L),Another name for the [is].,Profit & Loss Account (P&L),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [is].",,[is],Cuenta de Ganancia y Pérdida,[is],,[is],,[is],,
+pm,42-Profit-Margins.jpg,Profit Margin,"Gross Margin: [gi] or Gross Profit as a percentage of [sa] 
+Operating Margin: [oi] or Operating Profit as a percentage of [sa]
+Return on Sales: [ni] or Net Profit as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ is to denote a percentage (of Sales). 
+
+People will think of profit margins at different points on the Income Statement.  Production might look at Gross Margin while operations might look at Operating Margin; the Finance Department looks at Return on Sales.
+",Profit Margin,"Gross Margin: [gi] or Gross Profit as a percentage of [sa] 
+Operating Margin: [oi] or Operating Profit as a percentage of [sa]
+Return on Sales: [ni] or Net Profit as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ is to denote a percentage (of Sales). 
+
+People will think of profit margins at different points on the Income Statement.  Production might look at Gross Margin while operations might look at Operating Margin; the Finance Department looks at Return on Sales.
+",Profit Margin,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Gross Margin: [gi] or Gross Profit as a percentage of [sa] 
+Operating Margin: [oi] or Operating Profit as a percentage of [sa]
+Return on Sales: [ni] or Net Profit as a percentage of [sa]
+
+This number describes what income is left over after expenses are deducted from sales. 
+
+[wdym] We use ‘margin’ is to denote a percentage (of Sales). 
+
+People will think of profit margins at different points on the Income Statement.  Production might look at Gross Margin while operations might look at Operating Margin; the Finance Department looks at Return on Sales.
+",,,Margen de Utilidad,,,,שולי רווח Profit Margin:,"מספר זה מבטא את ההכנסה הנותרת לאחר הפחתת על ההוצאות מהמכירות. השימוש במונח שוליים מתייחס לאחוז (מתוך המכירות)
+שולי רווח גולמי: רווח גולמי כאחוז מהמכירות.
+שולי רווח תפעולי: רווח תפעולי כאחוז מהמכירות.
+תשואה למכירות: רווח נקי כאחוז מהמכירות. 
+בחינת שולי הרווח תלויה בנקודת המבט:
+מחלקת ייצור תתעניין ברווח הגולמי השולי בעוד התפעול יתעניין ברווח התפעולי השולי. המחלקה הפיננסית תתעניין בתשואה למכירות.
+",,
+prof,39-Profit.jpg,Profit,"Calculation of [gi] or Gross Profit:
+  [sa] less [cos]
+Calculation of [oi] or OperatingProfit:
+  [sa] less [cos] less [oe]
+Calculation of [ni] or Net Profit:
+  [sa] less all costs and expenses
+
+This number describes what income is left over after expenses are deducted from sales.
+
+See also [pandc]",Profit,"Calculation of [gi] or Gross Profit:
+  [sa] less [cos]
+Calculation of [oi] or OperatingProfit:
+  [sa] less [cos] less [oe]
+Calculation of [ni] or Net Profit:
+  [sa] less all costs and expenses
+
+This number describes what income is left over after expenses are deducted from sales.
+
+See also [pandc]",Profit,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation of [gi] or Gross Profit:
+  [sa] less [cos]
+Calculation of [oi] or OperatingProfit:
+  [sa] less [cos] less [oe]
+Calculation of [ni] or Net Profit:
+  [sa] less all costs and expenses
+
+This number describes what income is left over after expenses are deducted from sales.
+
+See also [pandc]",,,Utilidades,Una pregunta clásica de “Qué quiere decir con eso?”   Su definición depende de con quién se habla:  El personal de Ventas piensa que son las Ventas Brutas; Producción  piensa que es la Utilidad Bruta; Finanzas piensa que se encuentra en la última línea (Ingreso Neto).,LUCRO,Excedente entre receitas ( Faturamento) e despesas.,רווח Profit:,"מספר זה מתאר את ההכנסה הנותרת לאחר הפחתת ההוצאות מהמכירות. 
+חישוב רווח גולמי: מכירות פחות עלות מכר
+חישוב רווח תפעולי: מכירות פחות עלות מכר ופחות הוצאות תפעול.
+חישוב רווח נקי: מכירות פחות כל ההוצאות והעלויות. 
+",Utile,"Qui occorre porre la classica domanda «Cosa si intende con ciò?», con la definizione che dipende dal vostro interlocutore: i Commerciali lo considerano le vendite al lordo; il personale alla Produzione l'Utile lordo, gli addetti a reparto Finanziario lo considerano come la voce dell'ultima riga (Reddito Netto)."
+profy,T2-Return-on-Sales.jpg,Profitability,"Ratio: [ni] as a percentage of [sa].  
+
+Also called [ros].
+
+See also [iot]. 
+",Profitability,"Ratio: [ni] as a percentage of [sa].  
+
+Also called [ros].
+
+See also [iot]. 
+",Profitability,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ni] as a percentage of [sa].  
+
+Also called [ros].
+
+See also [iot]. 
+",,,Rentabilidad,,,,רווחיות Profitability:,היחס: הכנסה נטו כאחוז מהמכירות נטו. ,,
+ptap,,,,,,,,,,,,ATIVO PERMANENTE,[fa],,,,
+qr,3-Acid-Test-Ratio.jpg,Quick Ratio ,See [crat].,Quick Ratio ,See [crat].,Quick Ratio ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [crat].",,,Cociente Rápido,,,,יחס מהיר Quick ratio:,"היחס: נכסים שוטפים פחות מלאי חלקי התחייבויות שוטפות.
+יחס זה הוא וריאנט של היחס השוטף אך הוא כולל רק פריטים שמומרים למזומן במהירות. הוא נקרא גם acid test ratio מכיוון שהוא מעריך את היכולת להתמודד עם דרישות לא צפויות ללא תלות במכירת המלאי. 
+יחס מהיר של 1 נחשב אמת מידה טובה- יחס גבוה יותר מצביע על מצב משביע רצון. יחס נמוך יותר מצביע על דלדול מזומנים או דלדול הביקוש למוצרים. יחס של מתחת ל1/2 מצביע על מצב חמור וסיכוי גובר לפשיטת רגל. 
+",,
+re,47-Retained-Earnings.jpg,Retained Earnings ,"The accumulation of [ni]  that has been paid kept in the company to help it grow (rather than being paid out to Shareholders as [div]s).
+",Retained Earnings ,"The accumulation of [ni]  that has been paid kept in the company to help it grow (rather than being paid out to Shareholders as [div]s).
+",Retained Earnings ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The accumulation of [ni]  that has been paid kept in the company to help it grow (rather than being paid out to Shareholders as [div]s).
+",Réserves,"Partie du résultat net qui n'est pas versée sous forme de dividendes aux actionnaires, mais qui est gardée dans l'entreprise pour participer à sa croissance.",Utilidades Acumuladas,"La acumulación de Ingreso Neto que no ha sido pagado a los Accionistas como dividendo, pero ha sido retenido dentro de la compañía para ayudarla a crecer.",RESERVAS ACUMULADAS,"Parte do resultado líquido, que não é oferecida sob forma de dividendos aos acionistas, mas que é guardada na empresa para participar de seu crescimento, fazendo parte do Patrimônio Líquido da empresa.",רווח נצבר Retained earnings:,הצטברות ההכנסה הנקייה שנותרת בחברה על מנת לסייע בצמיחתה ולא מחולקת כדיבידנד לבעלי המניות. ,Utile non distribuito,"Accumulo del Reddito Netto non pagato agli azionisti come dividendi, ma trattenuto nell'azienda per finanziarne la crescita."
+rec,2-Receivables.jpg,Receivables,See [ar].,,See [ar],,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [ar].",,,Cuentas por Cobrar,,,,חובות לקוחות Receivables:,כסף שהלקוחות חייבים לעסק. חלק מהנכסים השוטפים. ,,
+rm,22-Inventory.jpg,Raw Materials ,"Materials purchased for manufacture, not yet altered by the production process.  ",Raw Materials ,"Materials purchased for manufacture, not yet altered by the production process.  ",Raw Materials ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Materials purchased for manufacture, not yet altered by the production process.  ",Matières Premières,Matériaux achetés pour la fabrication et qui n'ont encore subi aucune opération de fabrication,Materia Prima,"Los Materiales comprados para manufactura, pero que todavía no han sido alterados por el proceso de producción.",MATÉRIAS-PRIMAS,Substâncias ou insumos básicos para a fabricação e que não sofreram nenhuma espécie de transformação ainda.,חומרי גלם Raw materials:,חומרים שנרכשו בעבור תהליך הייצור אך שעדיין לא נעשה בהם שימוש במסגרת תהליך הייצור. ,Materie Prime,Materiali acquistati per la produzione non ancora entrati nel processo di trasformazione.
+roa,T3-Return-on-Assets.jpg,Return On Assets (ROA),"Ratio: [ni] as a percentage of the Total (average) [as].  
+
+ROA measures how effectively the assets are employed in the business.
+
+See also [iot]; [rona].",Return On Assets (ROA),"Ratio: [ni] as a percentage of the Total (average) [as].  
+
+ROA measures how effectively the assets are employed in the business.
+
+See also [iot]; [rona].",Return On Assets (ROA),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ni] as a percentage of the Total (average) [as].  
+
+ROA measures how effectively the assets are employed in the business.
+
+See also [iot]; [rona].",Rendement de l'Actif,Résultat d'exploitation exprimé sous la forme d'un pourcentage du total des actifs de l'entreprise.,Retorno sobre los Activos (ROA),,RETORNO SOBRE OS ATIVO,Resultado Líquido expresso sob a forma de um percentual do total dos ativos da empresa.,תשואה לנכסים (Return on assets (ROA:,"היחס: הכנסה נטו כאחוז מסך הנכסים.
+זהו מדד למידת האפקטיביות של נכסים בעסק. 
+נקרא גם Return on net assets
+",,
+roce,,Return On Capital Employed (ROCE),"Ratio: [oi] as a percentage of [eq] plus [ltd].  The precise definition will vary by company. 
+
+Also known as [rona].",Return On Capital Employed (ROCE),"Ratio: [oi] as a percentage of [eq] plus [ltd].  The precise definition will vary by company. 
+
+Also known as [rona].",Return On Capital Employed (ROCE),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [oi] as a percentage of [eq] plus [ltd].  The precise definition will vary by company. 
+
+Also known as [rona].",,,Retorno sobre el Capital Utilizado (ROCE),,,,תשואה להון Return on capital employed (ROCE):,"היחס: הכנסה תפעולית כאחוז מההון העצמי והחובות ארוכי הטווח. ההגדרה המדויקת משתנה מחברה לחברה.
+נקרא גם return on net assets. 
+",,
+roe,46-Return-on-Equity-Ratio.jpg,Return On Equity (ROE),"Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROE measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roi].  
+",Return On Equity (ROE),"Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROE measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roi].  ",Return On Equity (ROE),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROE measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roi].  ",,,Retorno sobre el Patrimonio,,RETORNO SOBRE OS CAPITAIS PRÓPRIOS,Resultado líquido expresso sob a forma de uma porcentagem do crédito dos acionista (Capital Próprio),תשואה להון העצמי return on equity  (ROE):,"היחס: הכנסה נטו כאחוז מהון בעלי המניות.
+ROE מודד את אפקטיביות השקעת בעלי המניות. נקרא גם תשואה להשקעה ROI.
+",,
+roi,,Return on Investment,"1. Investor’s View
+Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROI measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roe].
+
+
+2. Manager’s View
+The benefit obtained from any internal improvement or expansion, expressed as a percentage of the cost.  This ROI forecast allows the Finance Department to choose between competing proposals for improving the business, by seeing which ones provide the biggest bang for the buck.
+",Return on Investment,"1. Investor’s View
+Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROI measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roe].
+
+
+2. Manager’s View
+The benefit obtained from any internal improvement or expansion, expressed as a percentage of the cost.  This ROI forecast allows the Finance Department to choose between competing proposals for improving the business, by seeing which ones provide the biggest bang for the buck.",Return on Investment,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+1. Investor’s View
+Ratio: [ni] as a percentage of the Shareholders’ [eq]. 
+
+ROI measures how effectively the Shareholders’ investment has been put to work to create profit. Also known as [roe].
+
+
+2. Manager’s View
+The benefit obtained from any internal improvement or expansion, expressed as a percentage of the cost.  This ROI forecast allows the Finance Department to choose between competing proposals for improving the business, by seeing which ones provide the biggest bang for the buck.",Rendement des Capitaux Propres,Résultat net exprimé sous la forme d'un pourcentage de l'avoir des actionnaires.,Retorno sobre la Inversión,Ingreso Neto como un porcentage del Capital Contable de los Accionistas (También se conoce como Rendimiento del Capital Contable or ROE).,,,תשואה להשקעה  Return on investment   (ROI):,"מנקודת מבטו של המשקיע:
+היחס: הכנסה נטו כאחוז מהון בעלי המניות.
+זהו מדד למידת האפקטיביות בה השקעתו של בעל המניות הפכה לרווח. נקרא גם תשואה להון העצמי ROE)).
+מנקודת מבטו של המנהל:
+הרווח שהושג מהתייעלות פנימית או התרחבות, מבוטא כאחוז מהעלות. ניבוי ROI מאפשר למחלקה הפיננסית לבחור את ההצעה הרווחית ביותר בין הצעות מתחרות לייעול העסק. 
+",Rendimento del Capitale investito (ROI),Reddito Netto espresso come percentuale del Capitale Netto (anche detto ROE o Rendimento del Capitale Netto).
+rona,,Return on Net Assets (RONA),"Ratio: [oi] as a percentage of the [nas] 
+
+RONA shows the profit that managers are making as a percentage of the assets given them to manage.  Net Assets in this sense means the amount of [as] derived from [eq] and long-term debt.  Net Assets does not include supplier [ap] and other liabilities which the managers have generated themselves.  Similarly, [oi] does not take into account the finance charges and taxes; i.e. the items that managers have no control over.
+
+See also [roa].",Return on Net Assets (RONA),"Ratio: [oi] as a percentage of the [nas] 
+
+RONA shows the profit that managers are making as a percentage of the assets given them to manage.  Net Assets in this sense means the amount of [as] derived from [eq] and long-term debt.  Net Assets does not include supplier [ap] and other liabilities which the managers have generated themselves.  Similarly, [oi] does not take into account the finance charges and taxes; i.e. the items that managers have no control over.
+
+See also [roa].",Return on Net Assets (RONA),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Ratio: [oi] as a percentage of the [nas] 
+
+RONA shows the profit that managers are making as a percentage of the assets given them to manage.  Net Assets in this sense means the amount of [as] derived from [eq] and long-term debt.  Net Assets does not include supplier [ap] and other liabilities which the managers have generated themselves.  Similarly, [oi] does not take into account the finance charges and taxes; i.e. the items that managers have no control over.
+
+See also [roa].",Rendement de l'Actif Net,Résultat d'exploitation exprimé sous forme de pourcentage de l'Actif Net (actif – dettes à court terme).,Retorno sobre los Activos Netos (RONA),El Ingreso Operativo como un porcentaje de los Activos Netos (Activos menos Pasivos Corrientes) de la compañía.,RETORNO SOBRE OS ATIVO,Resultado de exploração expresso sob a forma de um percentual do [nas] ([as] menos dívidas a curto prazo).,תשואה לנכסים נטו   Return on net assets  (RONA):,"
+יחס זה מדגים את אחוז הרווח שמנהלים עושים כאחוז מסך הנכסים המנוהלים על ידיהם. במובן זה נכסים נטו הם כמות הנכסים הנובעים מההון העצמי וההתחייבויות ארוכות הטווח ואינם כוללים תשלום לספקים והתחייבויות אחרות שיצרו המנהלים בעצמם. באופן דומה, רווח תפעולי אינו לוקח בחשבון עלויות מימון ומיסוי- עלויות שלמנהל אין שליטה עליהן. 
+ראה גם תשואה לנכסים ROA. 
+",RONA (Rendimento delle attività nette),Utile Operativo espresso come percentuale delle Attività Nette (Attività meno Passività Correnti) dell'azienda.
+ros,T2-Return-on-Sales.jpg,Return On Sales (ROS),"[ni]
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Return On Sales (ROS)
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+ 
+Example: 
+- Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20.
+- Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.",Return On Sales (ROS),"[ni]
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Return On Sales (ROS)
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+ 
+Example: 
+- Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20.
+- Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.",Return On Sales (ROS),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[ni]
+The Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+
+Return On Sales (ROS)
+Ratio: [ni] as a percentage of [sa]
+
+Net Income (or Net Profit) is the Profit left for the owners, after all costs, expenses, interest and taxes have been paid. 
+ 
+Example: 
+- Sales of 200 less COS (80) less Operating expense (70) less interest expense (20) and income tax (10)  leaves Net Income of 20.
+- Net Income of 20 divided by Sales of 200 equals Return on Sales of 10%.",,,Retorno sobre las Ventas (RDV),Ingreso Neto como un porcentaje de las Ventas Netas (También conocido como Porcentaje de Rentabilidad).,RENTABILIDADE SOBRE AS VENDAS,Lucro líquido expresso sob a forma de uma porcentagem do Faturamento .,תשואה למכירות Return on sales (ROS):,"היחס: הכנסה נטו כאחוז ממכירות נטו.
+מדד זה מצביע על אחוז הכסף הנותר לאחר תשלום כל ההוצאות (עלות מכר, תקורה, פיתוח, הנהלה וכלליות, עלויות מימון ומיסוי).
+נקרא גם שולי רווח או רווחיות. 
+באופן אלטרנטיבי, ניתן למדוד תשואה למכירות באמצעות רווח תפעולי (וחברות המודדות ביצועים באמצעות RONA יעשו זאת). במקרה זה, המדד יצביע על כמות הכסף הנותר לאחר תשלום ההוצאות פרט לעלויות מימון ומיסוי. 
+",ROS,Reddito Netto come percentuale delle Vendite al Netto (anche detto percentuale di Redditività).
+sa,18-Sales.jpg,Sales,"Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to [ns] which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].   ",Sales,"Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to [ns] which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].   
+",Sales,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].   ",,,Ventas,,RECEITAS,Representa o Faturamento da Empresa.,מכירות sales:,הכנסות ממכירות מוצרים ושירותים שהינם חלק מפעולות העסק השגרתיות. ,,
+scf,,Statement of Cash Flow ,"Analysis of sources of cash that flowed into the business together with how cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as depreciation.",Statement of Cash Flow ,"Analysis of sources of cash that flowed into the business together with how cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as depreciation.",Statement of Cash Flow ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Analysis of sources of cash that flowed into the business together with how cash was allocated, for the accounting period. 
+
+The information is grouped by functional department, because Cash can be freed up from anywhere (such as getting customers to pay faster, or paying suppliers more slowly), not just from Sales or the Finance Department.  
+
+Note: Cash Flow does not consider non-cash items such as depreciation.",,,Estado de Flujo de Efectivo,,,,"דו""ח תזרים מזומנים Statement of cash flow:","ניתוח תקופתי של מקורות המזומן של החברה והאופן בו הוקצו המזומנים. 
+תזרים המזומנים אינו כולל פריטים לא מזומנים כמו פחת. 
+",,
+scse,,Statement of Changes in Shareholders’ Equity ,A summary of the changes in the [eq] section of the [bs] from year to year.,Statement of Changes in Shareholders’ Equity ,A summary of the changes in the [eq] section of the [bs] from year to year.,Statement of Changes in Shareholders’ Equity ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A summary of the changes in the [eq] section of the [bs] from year to year.",,,Estado de Cambios en el Patrimonio de los Accionistas,,,,Statement of changes in shareholders equity:,תקציר שנתי של השינוי בסעיף ההון העצמי במאזן.,,
+semi,,"Semi-Direct Cost, Semi-Fixed Cost, Semi-Variable Cost",First make sure you understand the concept behind the term without the ‘semi’; then ask [wdym],"Semi-Direct Cost, Semi-Fixed Cost, Semi-Variable Cost",First make sure you understand the concept behind the term without the ‘semi’; then ask [wdym],"Semi-Direct Cost, Semi-Fixed Cost, Semi-Variable Cost","Die deutsche Fassung wird zur Zeit noch uebersetzt...
+First make sure you understand the concept behind the term without the ‘semi’; then ask [wdym]",,,"Costo Semi-Directo, Costo Semi-Fijo, Costo Semi-Variable",,,,,,,
+sga,24-Fixed-Cost.jpg,"Selling, General & Administrative (SG&A)","The general expenses of running the business which are not associated directly with the products or services, i.e., the costs for sales and marketing, administration, recruitment and training and rent.  Research and Development (R&D) may be included or may be broken out as a separate line item.","Selling, General & Administrative (SG&A)","The general expenses of running the business which are not associated directly with the products or services, i.e., the costs for sales and marketing, administration, recruitment and training and rent.  Research and Development (R&D) may be included or may be broken out as a separate line item.","Selling, General & Administrative (SG&A)","Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The general expenses of running the business which are not associated directly with the products or services, i.e., the costs for sales and marketing, administration, recruitment and training and rent.  Research and Development (R&D) may be included or may be broken out as a separate line item.",,,"Ventas, Generales y Administrativos (VG&A)","Los gastos de las Ventas, Generales y de Administración; pueden o no incluír  los gastos de Investigación y Desarrollo (I y D), dependiendo del tipo de compañía y la magnitud del I y D como factor en la composición total de los gastos.","DESPESAS DE P&D,COMERCIALIZAÇÃO E ADMINISTRA-ÇÃO","Despesas de P&D, Comercialização e Administração. Conforme a natureza da empresa e a importância da atividade P&D em relação ao conjunto dos outros Custos, este pode ser suprimido do título.","הוצאות הנהלה וכלליות Selling, general and administrative (SGA):","ההוצאות הכלליות הנובעות מניהול עסק שאינן קשורות באופן ישיר למוצרים או השירותים. הכוונה היא להוצאות שיווק, אדמיניסטרציה, גיוס והדרכה, שכר דירה. הוצאות פיתוח עשויות להיות כלולות או להופיע כסעיף נפרד בדו""חות הכספיים. ",SG&A,"Spese Commerciali, Generali e Amministrative; possono o meno includere la R&S, a seconda della natura dell'azienda e della dimensione della R&S come fattore nel quadro generale delle spese."
+sheq,9-Shareholders-Equity.jpg,Shareholders’ Equity ,See [eq].,Shareholders’ Equity ,See [eq].,Shareholders’ Equity ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+See [eq].",Capitaux Propres,"Droit de propriété des actionnaires sur l'entreprise, représenté, au niveau du bilan, par le Capital Social et les Réserves. Les capitaux Propres sont aussi la différence entre les actifs et les dettes.",Patrimonio de los Accionistas,,,,הון בעלי המניות Shareholders Equity:,"מידת בעלותם של בעלי המניות בחברה, המבוטאת באמצעות הון המניות והרווח הנצבר. ",,
+spv,,Shares at Par Value ,"The face value of the capital shares, at their original declared value.
+
+This is normally far lower than the market price of the shares.",Shares at Par Value ,"The face value of the capital shares, at their original declared value.
+
+This is normally far lower than the market price of the shares.",Shares at Par Value ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The face value of the capital shares, at their original declared value.
+
+This is normally far lower than the market price of the shares.",,,Shares at Par Value ,"Es el valor nominal que aparece en las Acciones del Capital, de su valor original declarado.",AÇÕES DE VALOR NOMINAL,"Valor das ações do Capital, calculado a partir de seu valor declarado inicial (nominal).",שווי מניה Shares at par value:,השווי המקורי של המניות. ערך זה בדרך כלל נמוך בהשוואה למחיר השוק של המניות. ,Quote azionarie al valore nominale,"Valore nominale delle quote azionarie, al loro valore originario dichiarato."
+st,,Stock ,"Typically means shares (e.g. Shareholder [eq]).  In other countries, it is more likely to mean [inv]. ",Stock ,"Typically means [inv].  In North America, it is more likely to mean shares (e.g. Shareholder [eq]). ",Stock,"Die deutsche Fassung wird zur Zeit noch uebersetzt... Typically means [inv].  In North America, it is more likely to mean shares (e.g. Shareholder [eq]).",,,Acciones,,,,,,,
+ta,48-Tangible-Assets.jpg,Tangible Assets ,"[fa] with a physical, tangible nature such as land, buildings, equipment and furniture.
+
+See also [ia].",Tangible Assets ,"[fa] with a physical, tangible nature such as land, buildings, equipment and furniture.
+
+See also [ia].",Tangible Assets ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+[fa] with a physical, tangible nature such as land, buildings, equipment and furniture.
+
+See also [ia].",,,Activos Tangibles,,,,נכסים מוחשיים Tangible assets:,"נכסם קבועים בעלי אופי פיסיקלי, מוחשי כמו קרקע, מבנים, ציוד וריהוט. ",,
+tabs,5-Balance-Sheet.jpg,Total Asset Balance Sheet,"A [bs] balancing the total [as] against the combined total of [lia] and [eq]. 
+
+This is the simplest representation of Balance Sheet information, and is prevalent in North America. It shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing (Capital Stock), making money (Retained Earnings ), or borrowing from sources such as banks (Loans) and suppliers (Accounts Payable (A/P) ).
+
+See also [nabs].",Total Asset Balance Sheet,"A [bs] balancing the total [as] against the combined total of [lia] and [eq]. 
+
+This is the simplest representation of Balance Sheet information, and is prevalent in North America. It shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing (Capital Stock), making money (Retained Earnings ), or borrowing from sources such as banks (Loans) and suppliers (Accounts Payable (A/P) ).
+
+See also [nabs].",Total Asset Balance Sheet,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A [bs] balancing the total [as] against the combined total of [lia] and [eq]. 
+
+This is the simplest representation of Balance Sheet information, and is prevalent in North America. It shows the assets (what you have in the business) and balances that amount against the total of liabilities and equity (which is where the assets came from). In other words, everything you have in the business comes from investing (Capital Stock), making money (Retained Earnings ), or borrowing from sources such as banks (Loans) and suppliers (Accounts Payable (A/P) ).
+
+See also [nabs].",,,Balance de Activos Totales,,,,מאזן סך הנכסים Total assets balance sheet:,"מאזן המאזן בין סך הנכסים לסך ההתחייבויות וההון העצמי. 
+זהו הייצוג הפשוט ביותר של מידע מאזני והוא שכיח בצפון אמריקה.
+ראה גם מאזן נכסים נטו.  .
+",,
+tas,4-Assets.jpg,Total Assets,The combined total of [ca] and [fa].,Total Assets,The combined total of [ca] and [fa].,Total Assets,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The combined total of [ca] and [fa].",,,Activos Totales,,,,סך הנכסים Total assets:,סכום הנכסים הקבועים והשוטפים של חברה. ,,
+tcb,Company_Board_Apple_2008.gif,The Company Board,"A 3-dimensional landscape of the financial results of a business developed by Andromeda Training, Inc. ",The Company Board,"A 3-dimensional landscape of the financial results of a business developed by Andromeda Training, Inc. ",The Company Board,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A 3-dimensional landscape of the financial results of a business developed by Andromeda Training, Inc. ",,,The Company Board,"Desde otro punto de vista – la cantidad de fondos que la Oficina Central le ha proporcionado que usted no ha utilizado para adquirir Activos Fijos (y por ende se encuentra en Efectivo, Inventarios, o Cuentas por Cobrar).",,,,,,
+tsa,18-Sales.jpg,Total Sales ,"Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].  ",Total Sales ,"Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].  ",Total Sales ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Revenues from the sale of goods and services which are part of the company’s regular operations.  
+
+[wdym]  The term ‘Sales’ generally refers to Net Sales which is the number used in the Financial Statements. 
+
+The term ‘Total Sales’ could refer to [gs] or [ns].  ",,,Ventas Totales,,,,סך המכירות Total sales:,"הכנסות ממכירת מוצרים ושירותים שהינם חלק משגרת התפעול של החברה.
+המונח מכירות מתייחס בדרך כלל למכירות נטו וזהו המספר המופיע בדו""ח הרווח והפסד. 
+המושג ""סך מכירות"" עשוי להתייחס למכירות נטו או למכירות ברוטו. 
+",,
+var,,Variance ,The difference between the expected or planned result and the actual result.,Variance ,The difference between the expected or planned result and the actual result.,Variance ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The difference between the expected or planned result and the actual result.",Ecart,Différence entre le résultat estimé et le résultat réalisé.,Variación,La diferencia entre el resultado planeado o esperado y el resultado real.,DESVIO OU DIFERENÇA,"Diferença entre o resultado previsto e o resultado realizado. Em contabilidade, também é usado para representar a diferença entre o custo real e o custo padrão.",שונות Variance:,ההבדל בין התוצאה המתוכננת או הצפויה לבין התוצאה בפועל. ,Scostamento,La variazione tra il risultato previsto e quello reale.
+vc,11a-Cost-of-Sales.jpg,Variable Costs,"A cost that varies with the Sales volume. Examples are materials, labor, and sales commission.  
+
+Conceptually, [dc], [cogs] and [vc] are very similar. Check how each term is used in your company.  ",Variable Costs,"A cost that varies with the Sales volume. Examples are materials, labor, and sales commission.  
+
+Conceptually, [dc], [cogs] and [vc] are very similar. Check how each term is used in your company.  ",Variable Costs,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+A cost that varies with the Sales volume. Examples are materials, labor, and sales commission.  
+
+Conceptually, [dc], [cogs] and [vc] are very similar. Check how each term is used in your company.  ",,,Costos Variables,"Costos, los cuales varían directamente en relación con el Volúmen de Ventas; los Costos Directos de los productos entregados o servicios proporcionados a los clientes.",,,עלויות משתנות Variable costs:,"עלות המשתנה בהתאם לנפח המכירות. דוגמאות נפוצות הן חומרי גלם, עבודה ועמלות מכירה.
+באופן קונצפטואלי, עלויות ישירות, עלויות מכר ועלויות משתנות דומות מאוד. יש לבדוק כיצד משתמשים בכל מונח בחברה שלך. 
+",Costi Variabili, Costi che variano direttamente in relazione al volume delle vendite. E' il costo diretto dei prodotti spediti o dei servizi forniti al cliente.
+wc,49-Working-Capital.jpg,Working Capital ,"Calculation: [cash], [ar], and [inv] minus the [ap] and other short-term financing obtained in relation to the [ca]. 
+
+What it takes to run the business on a day-to-day basis. Defined as the difference between [ca] and [cl].  
+
+Also known as Net Working Capital.",Working Capital ,"Calculation: [cash], [ar], and [inv] minus the [ap] and other short-term financing obtained in relation to the [ca]. 
+
+What it takes to run the business on a day-to-day basis. Defined as the difference between [ca] and [cl].  
+
+Also known as Net Working Capital.",Working Capital ,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Calculation: [cash], [ar], and [inv] minus the [ap] and other short-term financing obtained in relation to the [ca]. 
+
+What it takes to run the business on a day-to-day basis. Defined as the difference between [ca] and [cl].  
+
+Also known as Net Working Capital.",Besoin en Fond de Roulement,Actif à court terme moins les dettes à court terme.,Capital de Trabajo,"Los Activos Corrientes en el negocio (Inventarios, Efectivo y Cuentas por Cobrar).",CAPITAL DE GIRO,Capital necessário ao funcionamento de um empreendimento. Contabilmente é o [ca] menos o Passivo Circulante (current liabilities).,הון חוזר Working capital:,"מה נדרש על מנת לתפעל עסק על בסיס יום יומי. מוגדר כהפרש בין הנכסים השוטפים וההתחייבויות השוטפות. מזומן, חובות לקוחות ומלאים פחות חובות לספקים ומימון קצר מועד הקשור לנכסים השוטפים.",Capitale Circolante,Si tratta delle Attività Correnti dell'azienda. (Capitale Circolante Netto meno Passività Correnti.)
+wdym,,What do you mean by that?,"The definitions given here are our generic explanations of common corporate financial terminology. Actual meanings can vary wildly from company to company; in order to have the correct internal definition you need to ask your Finance Department, ""What do you mean by that?""",What do you mean by that?,"The definitions given here are our generic explanations of common corporate financial terminology. Actual meanings can vary wildly from company to company; in order to have the correct internal definition you need to ask your Finance Department, ""What do you mean by that?""",What do you mean by that?,"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+The definitions given here are our generic explanations of common corporate financial terminology. Actual meanings can vary wildly from company to company; in order to have the correct internal definition you need to ask your Finance Department, ""What do you mean by that?""",,,Qué quiere decir con eso?,"El Capital Neto de Trabajo es los Activos Corrientes - Pasivos Corrientes (Inventarios, Efectivo y Cuentas por Cobrar menos las Cuentas por Pagar y otra financiación a corto plazo en relación a los Activos Corrientes)",,,,,,
+wip,22-Inventory.jpg,Work-in-Process (WIP),"Goods that are in the production stage, to be finished at some future date for shipment to customers.",Work-in-Process (WIP),"Goods that are in the production stage, to be finished at some future date for shipment to customers.",Work-in-Process (WIP),"Die deutsche Fassung wird zur Zeit noch uebersetzt...
+Goods that are in the production stage, to be finished at some future date for shipment to customers.
+",En-cours,"Produits se trouvant en fabrication, devant être finis à une date ultérieure et livrés aux clients.",Producto en Proceso,"Los productos que están en la etapa de produccion, que serán terminados en una fecha futura para ser entregados al cliente.",PRODUTOS EM FABRICAÇÃOS,"Produtos que se encontram em fabricação no momento da elaboração do Demonstrativo de Resultados, que serão acabados no futuro.",עבודה בתהליך Work in progress (WIP):,מוצרים הנמצאים בשלב היצור וישלחו בתאריך עתידי ללקוחות. ,Lavori in corso (WIP),Sono i beni che si trovano ancora in produzione e che saranno pronti per essere forniti al cliente.
